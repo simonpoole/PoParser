@@ -17,7 +17,7 @@ public class Po {
 	 * @param is
 	 * @throws ParseException
 	 */
-	Po(InputStream is) throws ParseException {
+	public Po(InputStream is) throws ParseException {
 		PoParser pp = new PoParser(is);
 		m = pp.getMap();
 	}
@@ -28,7 +28,7 @@ public class Po {
 	 * @param id
 	 * @return
 	 */
-	String t(String id) {
+	public String t(String id) {
 		String r = m.get(id);
 		return r != null ? r : id;
 	}
