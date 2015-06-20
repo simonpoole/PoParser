@@ -37,7 +37,8 @@ msgstr ""
 
 #: master_preset.xml:427(item:name)
 msgid "Trunk"
-msgstr ""
+msgstr "Stamm"
+" isn't really correct"
 
 #: master_preset.xml:459(item:name)
 msgid "Trunk Link"

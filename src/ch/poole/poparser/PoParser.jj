@@ -46,7 +46,6 @@ TOKEN :
 <DEFAULT> SKIP :
 {
   <"#" (~["\n","\r"])* ("\n" | "\r" | "\r\n")>
-| <"\"" (~["\n","\r"])* ("\n" | "\r" | "\r\n")>
 | <"\n" >
 }< DEFAULT > TOKEN :{
   < MSGID : "msgid" > : ENTRY_STATE
@@ -67,6 +66,13 @@ TOKEN :
 < ENTRY_STATE > TOKEN:
 {
   <QUOTE:"\""> : STRING_STATE
+}
+
+< STRING_STATE > SKIP:
+{
+  "\"\n\""
+| "\"\r\n\""
+|  "\r"
 }
 
 <STRING_STATE> MORE:
