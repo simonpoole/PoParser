@@ -12,14 +12,32 @@ public class Po {
 	
 	Map<String, String> m = null;
 	
-	Po(InputStream is) {
-		PoParser pp = PoParser(is);
+	/**
+	 * Parse the input stream in to a map
+	 * @param is
+	 * @throws ParseException
+	 */
+	Po(InputStream is) throws ParseException {
+		PoParser pp = new PoParser(is);
 		m = pp.getMap();
 	}
 	
+	/**
+	 * Return the translation of a string or the string itself
+	 * if no translation exists.
+	 * @param id
+	 * @return
+	 */
 	String t(String id) {
 		String r = m.get(id);
 		return r != null ? r : id;
 	}
 
+	/**
+	 * Return the full map 
+	 * @return
+	 */
+	public Map<String, String> getMap() {
+		return m;
+	}
 }

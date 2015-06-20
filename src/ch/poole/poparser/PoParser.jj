@@ -28,28 +28,16 @@
   DEBUG_PARSER = false;
   DEBUG_LOOKAHEAD = false;
   DEBUG_TOKEN_MANAGER = false;}PARSER_BEGIN(PoParser)
+
+package ch.poole.poparser;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.io.FileInputStream;
 
 public class PoParser{
-
-	
-  	public static void main(String args []) throws ParseException  	{
-  	  	try    	{     		PoParser parser = new PoParser(new FileInputStream("testinput/preset_de.po"));
-      		try      		{       			Map<String,String> m = parser.getMap();
-       			for (String k:m.keySet()) {					System.out.println(k + " " + m.get(k));
-       			}      		}      		catch (Exception e)      		{        		System.out.println("NOK.");        		System.out.println(e.getMessage());       	 	
-      		}      		catch (Error e)      		{        		System.out.println("Oops.");        		System.out.println(e.getMessage());        	      		} 	
-    	} catch (Exception ex)
-    	{
-      		System.out.println(ex.toString());
-    	}  	}}PARSER_END(PoParser)
-
-  	class PoEntry {
-		String msgId;
-		String msgStr;
-	}SKIP :{  " "| "\r"| "\t"}
+}PARSER_END(PoParser)
+SKIP :{  " "| "\r"| "\t"}
 TOKEN :
 {
 <  WS : [ " ","\t" ] >

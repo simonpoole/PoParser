@@ -1,5 +1,5 @@
 CLEAR_CONSOLE=true
-JAVACC_OPTIONS=-OUTPUT_DIRECTORY\=C\:\\Users\\simon\\git\\PoParser\\bin\\ch\\poole\\poparser
+JAVACC_OPTIONS=-OUTPUT_DIRECTORY\=C\:\\Users\\simon\\git\\PoParser\\src\\ch\\poole\\poparser
 JJDOC_OPTIONS=
 JJTREE_OPTIONS=
 JJ_NATURE=true
