@@ -32,6 +32,9 @@ public class Test {
        			for (String s:tests) {
        				String r = po.t(s);
        				System.out.println("Translating (no context) " + s +  " to " + r);
+       				String c = "test";
+       				r = po.t(c,s);
+       				System.out.println("Translating (context " + c + ") " + s +  " to " + r);
        		    }
       		}
       		catch (Exception e)

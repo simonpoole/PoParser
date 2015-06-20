@@ -177,7 +177,7 @@ String msgstr() :
 // 	String str = null;
 // }
 // {
-//   < MSGSTR_PLURAL > "[" "]" str = string() (< EOE >)?
+//   < MSGSTR_PLURAL > "[" bla "]" str = string() (< EOE >)?
 //   {
 //     return str;
 //   }

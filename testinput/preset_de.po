@@ -26,6 +26,11 @@ msgstr "Strassen"
 msgid "Motorway"
 msgstr "Autobahn"
 
+#: master_preset.xml:368(item:name)
+msgctxt "test"
+msgid "Motorway"
+msgstr "Schnell"
+
 #: master_preset.xml:401(item:name)
 msgid "Motorway Link"
 msgstr ""

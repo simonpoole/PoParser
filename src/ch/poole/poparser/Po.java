@@ -35,8 +35,8 @@ public class Po {
 	}
 
 	/**
-	 * Return the translation of a string or the string itself considering context
-	 * if no translation exists.
+	 * Return the translation of a string or the string itself
+	 * if no translation exists considering context.
 	 * @param id
 	 * @return
 	 */
@@ -45,13 +45,7 @@ public class Po {
 		if (mctxt != null) {
 			String r = mctxt.get(id);
 			return r != null ? r : id;
-		} else {
-			mctxt = m.get(null);
-			if (mctxt != null) {
-				String r = mctxt.get(id);
-				return r != null ? r : id;
-			} 
-		}
+		} 
 		return id;
 	}
 
