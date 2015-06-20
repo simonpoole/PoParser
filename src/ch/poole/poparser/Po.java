@@ -1,6 +1,7 @@
 package ch.poole.poparser;
 
 import java.io.InputStream;
+import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -10,7 +11,7 @@ import java.util.Map;
  */
 public class Po {
 	
-	Map<String, String> m = null;
+	Map<String,HashMap<String,String>> m = null;
 	
 	/**
 	 * Parse the input stream in to a map
@@ -29,15 +30,37 @@ public class Po {
 	 * @return
 	 */
 	public String t(String id) {
-		String r = m.get(id);
+		String r = m.get(null).get(id);
 		return r != null ? r : id;
 	}
 
 	/**
+	 * Return the translation of a string or the string itself considering context
+	 * if no translation exists.
+	 * @param id
+	 * @return
+	 */
+	public String t(String ctxt, String id) {
+		Map<String, String> mctxt = m.get(ctxt);
+		if (mctxt != null) {
+			String r = mctxt.get(id);
+			return r != null ? r : id;
+		} else {
+			mctxt = m.get(null);
+			if (mctxt != null) {
+				String r = mctxt.get(id);
+				return r != null ? r : id;
+			} 
+		}
+		return id;
+	}
+
+	
+	/**
 	 * Return the full map 
 	 * @return
 	 */
-	public Map<String, String> getMap() {
+	public Map<String,HashMap<String,String>> getMap() {
 		return m;
 	}
 }

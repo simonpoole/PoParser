@@ -2,6 +2,7 @@ package ch.poole.poparser;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -20,15 +21,17 @@ public class Test {
 
       		try
       		{
-       			Map<String,String> m = po.getMap();
+       			Map<String,HashMap<String,String>> m = po.getMap();
        			for (String k:m.keySet()) {
-					System.out.println(k + " " + m.get(k));
+       				for (String s:m.get(k).keySet()) {
+       					System.out.println("Context " + k + " " + s + " " + m.get(k).get(s));
+       				}
        			}
        			System.out.println("===========================================================");
        			String[] tests = {"Motorway","doesn't exist"};
        			for (String s:tests) {
        				String r = po.t(s);
-       				System.out.println("Translating " + s +  " to " + r);
+       				System.out.println("Translating (no context) " + s +  " to " + r);
        		    }
       		}
       		catch (Exception e)
