@@ -160,7 +160,7 @@ PoEntry entry() :
      	{ 
     		entry = new PoEntry();
     		entry.msgId = id;
-    		entry.msgStr = str;
+    		entry.msgStr = str.length() == 0 ? null : str;
    		}
     	return entry;
   	}
