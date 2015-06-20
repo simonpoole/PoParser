@@ -72,7 +72,7 @@ TOKEN :
 {
   "\"\n\""
 | "\"\r\n\""
-|  "\r"
+| "\r"
 }
 
 <STRING_STATE> MORE:
@@ -190,48 +190,49 @@ String msgstr() :
 // }
 
 PoEntry entry() :
-{  	PoEntry entry = null;
-  	String ctxt = null;
-  	String id = null;
-  	String id_plural = null;
-  	String str = null;
-  	String plural = null;
+{  PoEntry entry = null;
+  String ctxt = null;
+  String id = null;
+  String id_plural = null;
+  String str = null;
+  ArrayList<String > plurals = null;
 }
 {
-  	(ctxt = msgctxt())?	id = msgid()
-	(id_plural = msgid_plural())?
-	str = msgstr()
+  (ctxt = msgctxt())?  id = msgid()
+  (id_plural = msgid_plural())?
+  str = msgstr()
 //	(plural = msgstr_plural())?
-  	{
-     	if (id != null && str != null)
-     	{ 
-    		entry = new PoEntry();
-    		entry.msgId = id;
-    		entry.msgStr = str.length() == 0 ? null : str;
-    		entry.msgCtxt = ctxt;
-   		}
-    	return entry;
-  	}
+  {
+    if (id != null && str != null)
+    { 
+      entry = new PoEntry();
+      entry.msgId = id;
+      entry.msgStr = str.length() == 0 ? null : str;
+      entry.msgCtxt = ctxt;
+   	}
+    return entry;
+  }
 }
 HashMap<String,HashMap<String,String>> getMap() :
 {
-  	HashMap<String,HashMap<String,String>>result = new HashMap<String,HashMap<String,String>>();
-  	PoEntry entry = null;
+  HashMap<String,HashMap<String,String>>result = new HashMap<String,HashMap<String,String>>();
+  PoEntry entry = null;
 }
-{	(	  (entry = entry()		{  
-	  		if (entry != null)
-      		{
-      		  	if (!result.containsKey(entry.msgCtxt))      		  	{					result.put(entry.msgCtxt,new HashMap<String,String>());
-      		 	}
-    			result.get(entry.msgCtxt).put(entry.msgId,entry.msgStr);
-   	  		}
-     	}
+{  (	(entry = entry()	  {  
+	  	if (entry != null)
+      	{
+      	  if (!result.containsKey(entry.msgCtxt))      	  {		    result.put(entry.msgCtxt,new HashMap<String,String>());
+      	  }
+    	  result.get(entry.msgCtxt).put(entry.msgId,entry.msgStr);
+   	  	}
+      }
     ) |
     ( < EOF >
-  		{			return result;
-  		}
-  	))+
-  	{
-    	return result;
-  	}
+  	  {		return result;
+  	  }
+  	)
+  )+
+  {
+    return result;
+  }
 }
