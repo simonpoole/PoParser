@@ -36,7 +36,7 @@ public class Po {
 
 	/**
 	 * Return the translation of a string or the string itself
-	 * if no translation exists considering context.
+	 * if no translation exists, considering context.
 	 * @param id
 	 * @return
 	 */
