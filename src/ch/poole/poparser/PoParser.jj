@@ -86,6 +86,7 @@ TOKEN :
 | <RIGHTBRACKET:"]" >
 }
 
+// hack for continuation lines
 < STRING_STATE > SKIP:
 {
   "\"\n\""
