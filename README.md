@@ -1,6 +1,6 @@
 # PoParser
 
-This is a very simplistic parser for .po files. Mainly quickly hacked in so that we can translate preset names for https://github.com/MarcusWolschon/osmeditor4android and https://github.com/simonpoole/beautified-JOSM-preset . It currently ignores plurals (and likely crashes when they are present on input) and probably should be fixed to not do so.
+This is a very simplistic parser for .po files. Mainly quickly hacked in so that we can translate preset names for https://github.com/MarcusWolschon/osmeditor4android and https://github.com/simonpoole/beautified-JOSM-preset . It currently ignores plurals and probably should be fixed to not do so.
 
 ## Usage
 
