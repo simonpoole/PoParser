@@ -1,6 +1,6 @@
 /**
  * Minimalistic parser for .po files
- * Likly to crash and burn on anything else than a correct file
+ * Likly to crash and burn on anything else than a correct input file
  * @author Simon Poole
  *
  * Copyright (c) 2015 Simon Poole
@@ -33,6 +33,7 @@ package ch.poole.poparser;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.ArrayList;
 import java.io.FileInputStream;
 
 public class PoParser{
@@ -51,7 +52,18 @@ TOKEN :
   < MSGID : "msgid" > : ENTRY_STATE
 | < MSGSIDPLURAL : "msgid_plural" > : ENTRY_STATE
 | < MSGSTR : "msgstr" > : ENTRY_STATE
-| < MSGCTXT : "msgctxt" > : ENTRY_STATE}  
+| < MSGCTXT : "msgctxt" > : ENTRY_STATE}
+< ENTRY_STATE > TOKEN:
+{
+ < NUMBER : ( < DIGIT > )+ >
+}
+
+< ENTRY_STATE > TOKEN :
+{
+< DIGIT : [ "0"-"9" ] >
+}
+
+  
 < ENTRY_STATE > SKIP:
 {
   " "
@@ -66,6 +78,12 @@ TOKEN :
 < ENTRY_STATE > TOKEN:
 {
   <QUOTE:"\""> : STRING_STATE
+}
+
+< ENTRY_STATE > TOKEN:
+{
+  <LEFTBRACKET:"[">
+| <RIGHTBRACKET:"]" >
 }
 
 < STRING_STATE > SKIP:
@@ -178,16 +196,16 @@ String msgstr() :
   }
 }
 
-// String msgstr_plural() :
-// {
-// 	String str = null;
-// }
-// {
-//   < MSGSTR_PLURAL > "[" bla "]" str = string() (< EOE >)?
-//   {
-//     return str;
-//   }
-// }
+String msgstr_plural() :
+{
+  String str = null;
+}
+{
+  < MSGSTR > <LEFTBRACKET > < NUMBER > <RIGHTBRACKET > str = string() (< EOE >)?
+  {
+    return str;
+  }
+}
 
 PoEntry entry() :
 {  PoEntry entry = null;
@@ -195,13 +213,13 @@ PoEntry entry() :
   String id = null;
   String id_plural = null;
   String str = null;
+  String plural = null;
   ArrayList<String > plurals = null;
 }
 {
   (ctxt = msgctxt())?  id = msgid()
   (id_plural = msgid_plural())?
-  str = msgstr()
-//	(plural = msgstr_plural())?
+  ((str = msgstr())|(plural = msgstr_plural())+)
   {
     if (id != null && str != null)
     { 
@@ -209,7 +227,7 @@ PoEntry entry() :
       entry.msgId = id;
       entry.msgStr = str.length() == 0 ? null : str;
       entry.msgCtxt = ctxt;
-   	}
+   	} 
     return entry;
   }
 }

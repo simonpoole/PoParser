@@ -70,7 +70,10 @@ msgstr ""
 
 #: master_preset.xml:598(item:name)
 msgid "Unclassified"
-msgstr ""
+msgid_plural "Unclassifieds"
+msgstr[0] "0"
+msgstr[1] "1"
+msgstr[2] "2"
 
 #: master_preset.xml:620(item:name)
 msgid "Residential"
