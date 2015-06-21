@@ -1,6 +1,6 @@
 # PoParser
 
-This is a very simplistic parser for .po files. Mainly quickly hacked in so that we can translate preset names for https://github.com/MarcusWolschon/osmeditor4android and https://github.com/simonpoole/beautified-JOSM-preset . It currently ignores plurals and probably should be fixed to not do so.
+This is a very simplistic parser for .po files from the [GNU gettext system](https://www.gnu.org/software/gettext/manual/html_node/index.html#Top). Mainly quickly hacked in so that we can translate preset names for https://github.com/MarcusWolschon/osmeditor4android and https://github.com/simonpoole/beautified-JOSM-preset . It currently ignores plurals and probably should be fixed to not do so. Further it does not actually support the gettext interface.
 
 ## Usage
 
