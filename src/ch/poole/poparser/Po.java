@@ -1,6 +1,7 @@
 package ch.poole.poparser;
 
 import java.io.InputStream;
+import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeSet;
@@ -10,7 +11,12 @@ import java.util.TreeSet;
  * @author Simon Poole
  *
  */
-public class Po {
+public class Po implements Serializable {
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	
 	Map<String,HashMap<String,String>> m = null;
 	
