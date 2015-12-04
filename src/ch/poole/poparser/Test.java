@@ -17,7 +17,7 @@ public class Test {
   	{
   	  	try
     	{ 
-    		Po po = new Po(new FileInputStream("testinput/preset_de.po"));
+    		Po po = new Po(new FileInputStream("testinput/preset_tr.po"));
 
       		try
       		{

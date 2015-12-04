@@ -27,7 +27,8 @@
   OTHER_AMBIGUITY_CHECK=2;
   DEBUG_PARSER = false;
   DEBUG_LOOKAHEAD = false;
-  DEBUG_TOKEN_MANAGER = false;}PARSER_BEGIN(PoParser)
+  DEBUG_TOKEN_MANAGER = false;
+  UNICODE_INPUT = true;}PARSER_BEGIN(PoParser)
 
 package ch.poole.poparser;
 
