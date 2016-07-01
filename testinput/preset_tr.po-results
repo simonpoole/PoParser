@@ -1,0 +1,2806 @@
+Project-Id-Version: Presets\nPOT-Creation-Date: 2015-12-01 18:08+0100\nPO-Revision-Date: 2015-12-01 17:11+0000\nLast-Translator: Simon Poole <sp8962@gmail.com>\nLanguage-Team: Turkish (http://www.transifex.com/openstreetmap/presets/language/tr/)\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n > 1);\n
+
+Su
+Water
+platter
+platter
+Difficulty
+Difficulty
+Coins
+Coins
+Suction pumpout
+Suction pumpout
+Bisiklet kiralanÄ±r
+Bicycles are rented
+House number
+House number
+Clock
+Clock
+Addresses
+Addresses
+Embassy
+Embassy
+Ãœcretsiz bisiklet pompasÄ±
+Free bicycle pump
+Length in meters
+Length in meters
+Inscription
+Inscription
+Rampa
+Ramp
+Floorer
+Floorer
+Curtain
+Curtain
+thermal
+thermal
+Street
+Street
+Tourism attraction
+Tourism attraction
+Shoemaker
+Shoemaker
+Pilon
+Pylon
+(please use isolated_dwelling for an isolated farm)
+(please use isolated_dwelling for an isolated farm)
+Butcher
+Butcher
+Toplu TaÅŸÄ±ma (Eski)
+Public Transport (Legacy)
+Glacier
+Glacier
+Chalet
+Chalet
+Karayolu
+Highway
+SÃ¼rekli yada mevsimsel bitki Ã¶rtÃ¼sÃ¼ ile kaplÄ± su emmiÅŸ alan.
+Waterlogged area, either permanently or seasonally with vegetation.
+Bakery
+Bakery
+Kindergarten
+Kindergarten
+Metro giriÅŸi
+Subway Entrance
+Beds
+Beds
+Off-Road: aÄŸÄ±r yÃ¼klÃ¼ off-road aracÄ±
+Off-Road: heavy duty off-road vehicle
+Taxiway
+Taxiway
+Park
+Park
+Bisiklet Yolu
+Bicycle Road
+Newspaper
+Newspaper
+Analog
+Analog
+Biomass Power Generator
+Biomass Power Generator
+Tree Row
+Tree Row
+BoÅŸaltÄ±m Ä°stasyonu
+Dump Station
+Miniature Golf
+Miniature Golf
+Motocross
+Motocross
+Bina
+Building
+A single notable free-standing rock, which may differ from the composition of the terrain it lies in.
+A single notable free-standing rock, which may differ from the composition of the terrain it lies in.
+Bagaj rampasÄ±
+Luggage ramp
+National Park
+National Park
+Type of substation
+Type of substation
+Artwork
+Artwork
+Visa
+Visa
+Rezervuar
+Reservoir
+Su eriÅŸim kurallarÄ±:
+Water access rules:
+YÃ¼zey
+Surface
+From (initial stop)
+From (initial stop)
+Birincil baÄŸlantÄ±sÄ±
+Primary Link
+drag_lift (general type - use only if exact type (see values below) is unknown)
+drag_lift (general type - use only if exact type (see values below) is unknown)
+Racquetball
+Racquetball
+ilerlemek iÃ§in bazen elleri kullanmak gerekir. Alan gayet aÃ§Ä±k, tehlikeli Ã§imenler, pÃ¼rÃ¼zlÃ¼ kayalar, karsÄ±z kolay buzullaÅŸma
+sometimes need for hand use to get ahead. Terrain quite exposed, precarious grassy acclivities, jagged rocks, facile snow-free glaciers
+ways being part of street
+ways being part of street
+License Classes
+License Classes
+Dinlenme alanÄ±
+Rest Area
+Public Market
+Public Market
+fork node for alternative routes
+fork node for alternative routes
+Audioguide via mobile phone?
+Audioguide via mobile phone?
+house (up to 5m)
+house (up to 5m)
+Addresses and Contact
+Addresses and Contact
+Food
+Food
+Community Centre
+Community Centre
+Mep (pt)
+Mep (pt)
+Patika
+Path
+Cycling
+Cycling
+Motosiklet
+Motorcycle
+Geothermal Power Generator
+Geothermal Power Generator
+Glaziery
+Glaziery
+Candy Store
+Candy Store
+Park alanÄ±
+Parking
+UIC name
+UIC name
+Route Master
+Route Master
+Elektrikli sandalye rampasÄ±
+Wheelchair ramp
+waterways (no riverbank)
+waterways (no riverbank)
+Facilities
+Facilities
+Enforcement
+Enforcement
+Number of circuits
+Number of circuits
+Ufak DÃ¶nel KavÅŸak
+Mini-Roundabout
+Equestrian
+Equestrian
+Register
+Register
+Strip Club
+Strip Club
+Number of steps
+Number of steps
+DÃ¶ner
+Turntable
+Movable Bridge
+Movable Bridge
+Kendin tamir etmek iÃ§in aletler (belki bisikletÃ§i yardÄ±m edebilir)
+Tools for do-it-yourself repair (may be a bike co-operative)
+Name of river/lake/sea/ocean it runs into
+Name of river/lake/sea/ocean it runs into
+Water Works
+Water Works
+Schrader
+Schrader
+Motorbot
+Motorboat
+Coal Power Generator
+Coal Power Generator
+Agricultural engines
+Agricultural engines
+Pelota
+Pelota
+Convenience Store
+Convenience Store
+Locksmith
+Locksmith
+OtobÃ¼s duraÄŸÄ± (eski)
+Bus stop (legacy)
+After school care
+After school care
+Building type
+Building type
+Stars
+Stars
+Casette or Elsan Disposal
+Casette or Elsan Disposal
+Historical name
+Historical name
+Therapist
+Therapist
+soÄŸuk su
+cold water
+Tourism
+Tourism
+Gravity drain for hose
+Gravity drain for hose
+Reference Sandre (FR)
+Reference Sandre (FR)
+Beer Garden
+Beer Garden
+Night Club
+Night Club
+AÄŸÄ±r Hizmet AraÃ§larÄ± (aha)
+Heavy Goods Vehicles (hgv)
+Mondero (ar)
+Mondero (ar)
+Swimming
+Swimming
+Camera
+Camera
+Kiosk
+Kiosk
+Ä°zin verilen trafik:
+Allowed traffic:
+Detail Grade
+Detail Grade
+Shown Area
+Shown Area
+Max. speed (km/h, only if enforcement=maxspeed)
+Max. speed (km/h, only if enforcement=maxspeed)
+Hizmetler:
+Services:
+Plant Nursery
+Plant Nursery
+A saddle point between mountains or hills.
+A saddle point between mountains or hills.
+addresses belonging to the street
+addresses belonging to the street
+Financial
+Financial
+Litecoin
+Litecoin
+Otoyol BaÄŸlantÄ±sÄ±
+Motorway Link
+Islet
+Islet
+Brothel
+Brothel
+DKV
+DKV
+Output forms of energy (optional):
+Output forms of energy (optional):
+Colour of background
+Colour of background
+Ayak
+Foot
+Stonemason
+Stonemason
+fusion
+fusion
+To (terminal stop)
+To (terminal stop)
+Marka
+Brand
+KadÄ±nlar iÃ§in alan
+Spaces for Women
+Town Hall
+Town Hall
+Adit
+Adit
+Otomobil ve -Bisiklet (CH)
+Motorcar and -cycle (CH)
+Water level
+Water level
+Employment agency
+Employment agency
+Galileo Signals
+Galileo Signals
+Leisure
+Leisure
+Video
+Video
+Ã–zel off-road aracÄ±: traktÃ¶r, ATV
+Specialized off-road: tractor, ATV
+Plumber
+Plumber
+Time (hh:mm, for trekking)
+Time (hh:mm, for trekking)
+Cable count
+Cable count
+Indoor
+Indoor
+trafik iÅŸaretleri durumunda:
+In case of traffic signals:
+Handicraft
+Handicraft
+KÃ¶prÃ¼
+Bridge
+Logistics
+Logistics
+Carpenter
+Carpenter
+SÄ°gara iÃ§me
+Smoking
+Anayol BaÄŸlantÄ±sÄ±
+Trunk Link
+Cuisine
+Cuisine
+Demiryolu
+Railway
+Zincir aracÄ±
+Chain tool
+Billiards
+Billiards
+Shooting
+Shooting
+Supermarket
+Supermarket
+Vacuum Cleaner
+Vacuum Cleaner
+Yaya
+Pedestrian
+Farmland
+Farmland
+Vikipedia
+Wikipedia
+GeÃ§it
+Gate
+Protected Class
+Protected Class
+AyrÄ±lmÄ±ÅŸ Yaya Yolu
+Dedicated Footway
+Incomplete tower
+Incomplete tower
+Patika gayet aÃ§Ä±k. Alan genelde dÃ¼z ya da hafif eÄŸimli, dÃ¼ÅŸme tehlikesi yok
+Trail well cleared. Area flat or slightly sloped, no fall hazard
+Destination Sign
+Destination Sign
+Debit cards
+Debit cards
+Hardware
+Hardware
+Tower design
+Tower design
+Shops
+Shops
+KaÃ§Ä±ÅŸ
+Escape
+Durma AlanÄ±
+Stop Area
+Apron
+Apron
+Childcare capacity
+Childcare capacity
+Nursing Home
+Nursing Home
+DÃ¶nel KavÅŸak
+Roundabout
+Nature Reserve
+Nature Reserve
+Drive through
+Drive through
+KiralÄ±k
+Rental
+DÃ¶nÃ¼ÅŸ NoktasÄ±
+Turning Point
+Transformer Attributes:
+Transformer Attributes:
+way forming the outline footprint
+way forming the outline footprint
+Ford
+Ford
+Handball
+Handball
+Girocard
+Girocard
+Pet
+Pet
+halt point
+halt point
+Ten-pin Bowling
+Ten-pin Bowling
+Woodland where timber production does not dominate use.
+Woodland where timber production does not dominate use.
+Jewellery
+Jewellery
+Board Content
+Board Content
+BordÃ¼r
+Kerb
+Lighthouse
+Lighthouse
+Crane
+Crane
+Food Bank
+Food Bank
+Skateboard
+Skateboard
+ElektriklenmiÅŸ
+Electrified
+backward segment
+backward segment
+YÃ¼kseklik
+Elevation
+Allotments
+Allotments
+BarÄ±nak
+Shelter
+Route Network
+Route Network
+Memorial
+Memorial
+Demiryolu istasyonu (eski)
+Railway station (legacy)
+Mountain Biking Route
+Mountain Biking Route
+Routes shown for:
+Routes shown for:
+Routes
+Routes
+IT
+IT
+Shows barometric pressure
+Shows barometric pressure
+Marina
+Marina
+Routex
+Routex
+Volcano
+Volcano
+Mezhep
+Denomination
+Brownfield
+Brownfield
+DuraÄŸan su kÃ¼tlesi, gÃ¶l veya gÃ¶let gibi.
+A body of standing water, such as a lake or pond.
+Ski Route
+Ski Route
+Information Office
+Information Office
+Ice Hockey
+Ice Hockey
+Trafik SakinleÅŸtirici
+Traffic Calming
+UlaÅŸÄ±m
+Transport
+Used for data communications
+Used for data communications
+Graveyard
+Graveyard
+Hide
+Hide
+Ana yol
+Trunk
+Variety Store
+Variety Store
+BaÅŸlangÄ±Ã§ tarihi
+Start date
+t-bar
+t-bar
+Sol trabzan
+Left handrail
+Power supply
+Power supply
+Max. height (meters, only if enforcement=maxheight)
+Max. height (meters, only if enforcement=maxheight)
+Motorlu araÃ§lar
+Motor vehicles
+YÃ¶n
+Direction
+Height in meter (m)
+Height in meter (m)
+For the body
+For the body
+basÄ±nÃ§lÄ± hava
+compressed air
+vakum
+vacuum
+Recording Studio
+Recording Studio
+Place name
+Place name
+NÃ¼fus
+Population
+A Signpost/Guidepost to indicate the directions to different destinations.
+A Signpost/Guidepost to indicate the directions to different destinations.
+Power Converter
+Power Converter
+Bookbinder
+Bookbinder
+Flagpole
+Flagpole
+Organic/Bio
+Organic/Bio
+KullanÄ±m
+Usage
+Address Interpolation
+Address Interpolation
+Demiryolu AnahtarÄ±
+Railway Switch
+Ä°nce Tekerlekler: yarÄ±ÅŸ bisikleti
+Thin Wheels: racing bike
+Multi
+Multi
+Katman
+Layer
+Lock
+Lock
+Watchmaker
+Watchmaker
+Railway Halt
+Railway Halt
+Clinic
+Clinic
+TroleybÃ¼s
+Trolleybus
+Nine-pin Bowling
+Nine-pin Bowling
+TÃ¼nel
+Tunnel
+Basket maker
+Basket maker
+Falles
+Falles
+Tide Level
+Tide Level
+Teleferik
+Cable Car
+ÃœÃ§Ã¼ncÃ¼l baÄŸlantÄ±sÄ±
+Tertiary Link
+Cave Entrance
+Cave Entrance
+via node or ways
+via node or ways
+Acil durum araÃ§larÄ±
+Emergency vehicles
+Rigger
+Rigger
+Tek Ray
+Monorail
+UTA
+UTA
+Shows temperature
+Shows temperature
+Maestro
+Maestro
+Hifi
+Hifi
+Electronics
+Electronics
+Seafood
+Seafood
+AyrÄ±lmÄ±ÅŸ YÃ¼rÃ¼me ve Bisiklet Yolu
+Segregated Foot- and Cycleway
+YeraltÄ± suyunun yeryÃ¼zÃ¼ne Ã§Ä±kÄ±ÅŸ noktasÄ±.
+A point where groundwater naturally flows to the surface of the earth from underground.
+Otomobil
+Motorcar
+Sawmill
+Sawmill
+Boundary
+Boundary
+Clockmaker
+Clockmaker
+Compressed Air
+Compressed Air
+Soldan aÃ§Ä±lÄ±r
+Open on left side
+single plainly climbing up to second grade. Exposed, demanding terrain, jagged rocks, few dangerous glacier and snow
+single plainly climbing up to second grade. Exposed, demanding terrain, jagged rocks, few dangerous glacier and snow
+Education
+Education
+UIC reference
+UIC reference
+Type of converter
+Type of converter
+Group Home
+Group Home
+Point Name
+Point Name
+Mesafe (km)
+Distance (km)
+Guest House/Bed & Breakfast
+Guest House/Bed & Breakfast
+Skating
+Skating
+GidiÅŸ
+Roundtrip
+Solar Power Generator
+Solar Power Generator
+Ã‡ok kÄ±sa sÃ¼rede yaprak dÃ¶ken ve eski yapraklarÄ± dÃ¶kerken tekrar yeÅŸeren bitkiler.
+Plants that lose their foliage for a very short period, when old leaves fall off and new foliage growth is starting.
+Postal Code
+Postal Code
+Colour of text
+Colour of text
+Volleyball
+Volleyball
+ÃœÃ§Ã¼ncÃ¼l
+Tertiary
+GeÃ§it
+Crossing
+position of sign
+position of sign
+EriÅŸim KÄ±sÄ±tlamalarÄ±
+Access Restrictions
+Avant (fi)
+Avant (fi)
+Ngo
+Ngo
+Sailmaker
+Sailmaker
+Library
+Library
+YÃ¼kseklik (metre)
+Height (meters)
+Stadium
+Stadium
+Tezgah
+Bench
+Blacksmith
+Blacksmith
+barrage
+barrage
+Fountain
+Fountain
+Synagogue
+Synagogue
+Dekovil
+Narrow Gauge Rail
+YÄ±l boyunca belirli bir sÃ¼re iÃ§in yapraksÄ±z olan bitkiler.
+Plants that are leafless for a certain period during the year.
+Function
+Function
+Power Switch
+Power Switch
+Accuracy
+Accuracy
+Entrance
+Entrance
+Electronic purses and Charge cards
+Electronic purses and Charge cards
+Bisikletle geÃ§iÅŸ
+Cross by bicycle
+Camping Site
+Camping Site
+Yaya geÃ§iÅŸi tÃ¼rÃ¼
+Pedestrian crossing type
+Number of conductors/wires per cable
+Number of conductors/wires per cable
+j-bar
+j-bar
+GeÃ§iÅŸ tÃ¼rÃ¼ ismi (UK)
+Crossing type name (UK)
+IsÄ±tma var mÄ±?
+Has heating?
+Tennis
+Tennis
+Detour Route
+Detour Route
+E85 (%85 Etanol karÄ±ÅŸÄ±m)
+E85 (85% Ethanol mix)
+Ä°z tipi
+Tracktype
+last way before junction
+last way before junction
+biyogaz
+biogas
+Bitcoin
+Bitcoin
+Alternative name
+Alternative name
+Hvac
+Hvac
+Dog Racing
+Dog Racing
+Religious
+Religious
+Residential Area
+Residential Area
+Fax Number
+Fax Number
+Dizel
+Diesel
+Where vegetation is dominated by grasses (Poaceae) and other herbaceous (non-woody) plants. Excludes cultivated areas and wetlands.
+Where vegetation is dominated by grasses (Poaceae) and other herbaceous (non-woody) plants. Excludes cultivated areas and wetlands.
+Yaprak dÃ¶ken ve dÃ¶kmeyen bitkilerin doÄŸal ortamÄ±
+Habitat with evergreen and deciduous vegetation.
+(Use international code, like +12-345-67890)
+(Use international code, like +12-345-67890)
+Highway milestone
+Highway milestone
+SaÄŸ trabzan
+Right handrail
+Green Waste
+Green Waste
+YerleÅŸim
+Residential
+Travel agent
+Travel agent
+Sun protection
+Sun protection
+Sweep
+Sweep
+Chemist
+Chemist
+exposed sites may be secured with ropes or chains, possible need to use hands for balance. Partly exposed sites with fall hazard, scree, pathless jagged rocks
+exposed sites may be secured with ropes or chains, possible need to use hands for balance. Partly exposed sites with fall hazard, scree, pathless jagged rocks
+80 Oktan
+Octane 80
+Confectionery
+Confectionery
+Visibility/readability
+Visibility/readability
+A volcano, either dormant, extinct or active.
+A volcano, either dormant, extinct or active.
+Diesel for Heavy Good Vehicles
+Diesel for Heavy Good Vehicles
+Hearing Aids
+Hearing Aids
+Flat numbers
+Flat numbers
+Mall
+Mall
+Ruins
+Ruins
+Payment Methods
+Payment Methods
+Type of construction
+Type of construction
+Toilets/Restrooms
+Toilets/Restrooms
+Proton (be)
+Proton (be)
+Posta kodu
+Post code
+CNG (SÄ±kÄ±ÅŸtÄ±rÄ±lmÄ±ÅŸ DoÄŸal Gaz)
+CNG (Compressed Natural Gas)
+Taxi
+Taxi
+Foundation
+Foundation
+Border type
+Border type
+Tamir
+Repair
+Administration centre
+Administration centre
+BazÄ± Ã¼lkelerde kullanÄ±lan yerel yÃ¶netimlerin adlandÄ±rdÄ±ÄŸÄ± ismi olan yol kavÅŸaklarÄ±
+Used in some countries for a named road junction who.s name serves for local orientation.
+Wayside Shrine
+Wayside Shrine
+Gasometer
+Gasometer
+Meadow
+Meadow
+Photo studio
+Photo studio
+Village
+Village
+Buddhist Temple
+Buddhist Temple
+91 Oktan
+Octane 91
+92 Oktan
+Octane 92
+Inclination in degrees
+Inclination in degrees
+Tahliye
+Drain
+AÃ§Ä±lÄ±ÅŸ Saatleri
+Opening Hours
+Kaynak
+Spring
+95 Oktan
+Octane 95
+KaplÄ±
+Covered
+98 Oktan
+Octane 98
+Table Tennis/Ping-Pong
+Table Tennis/Ping-Pong
+Riding
+Riding
+Sandalye/gondol baÅŸÄ±na kiÅŸi sayÄ±sÄ±
+Number of people per gondola/chair
+Water Turbine
+Water Turbine
+Retirement Home
+Retirement Home
+Automated Teller Machine
+Automated Teller Machine
+Social Facilities
+Social Facilities
+The top (summit) of a mountain or hill.
+The top (summit) of a mountain or hill.
+Microbrewery
+Microbrewery
+Running
+Running
+Depth in meters
+Depth in meters
+Havai taÅŸÄ±ma
+Aerialway
+Tower
+Tower
+Surveillance Camera
+Surveillance Camera
+Fair Trade
+Fair Trade
+Ridge
+Ridge
+Hafif RaylÄ±
+Light Rail
+1/50 mix (mofa/moped)
+1/50 mix (mofa/moped)
+Art
+Art
+Water Well
+Water Well
+Kissing Gate
+Kissing Gate
+Bank
+Bank
+Åželale
+Waterfall
+Diesel (Gas To Liquid - ultimate diesel)
+Diesel (Gas To Liquid - ultimate diesel)
+Maritime
+Maritime
+Power Substation
+Power Substation
+Traffic
+Traffic
+Leather
+Leather
+For areas of solid visible rock that is sparsely vegetated or not vegetated at all.
+For areas of solid visible rock that is sparsely vegetated or not vegetated at all.
+Nursery
+Nursery
+Parish
+Parish
+Canadian Football
+Canadian Football
+Administrative
+Administrative
+House name
+House name
+GeÃ§iÅŸ Yerleri
+Passing Places
+Association
+Association
+Vending products
+Vending products
+DalgakÄ±ran
+Breakwater
+Bisiklet yolu sol
+Cycleway left
+Other Information Point
+Other Information Point
+Kano
+Canoe
+Gift/Souvenir
+Gift/Souvenir
+Karayolunun Niteliklerini DÃ¼zenle:
+Edit Highway Attributes:
+Camping
+Camping
+Gymnastics
+Gymnastics
+Nature
+Nature
+Ticket
+Ticket
+Railway Platform
+Railway Platform
+Genel EriÅŸim
+General Access
+Takson
+Taxon
+Din
+Religion
+Number of places
+Number of places
+Tekerlekler: ÅŸehir bisikleti, tekerlekli sandalye, skuter
+Wheels: city bike, wheelchair, scooter
+Waste Power Generator
+Waste Power Generator
+Turn Restriction
+Turn Restriction
+area (more than 20m)
+area (more than 20m)
+Restaurant
+Restaurant
+Hizmetler
+Services
+Reference GNBC (CA)
+Reference GNBC (CA)
+Home decoration
+Home decoration
+Yatak
+Lit
+Music
+Music
+Survey Point
+Survey Point
+Waste Disposal/Dumpster
+Waste Disposal/Dumpster
+Assisted Living
+Assisted Living
+DiÄŸer
+Other
+Caravan Site/RV Park
+Caravan Site/RV Park
+Noise
+Noise
+Detailed description
+Detailed description
+Croquet
+Croquet
+Caterer
+Caterer
+Alcohol
+Alcohol
+Photo
+Photo
+Bus Stop
+Bus Stop
+Windsock
+Windsock
+Toplu TaÅŸÄ±ma
+Public Transport
+Motorsport
+Motorsport
+Gas Power Generator
+Gas Power Generator
+Kesme
+Cutting
+Plaj
+Beach
+Video Games
+Video Games
+KapalÄ± (Ã§atÄ± ile)
+Covered (with roof)
+Type of shelter
+Type of shelter
+Outdoor
+Outdoor
+Suyun yanÄ±ndaki dÃ¼z kum, Ã§akÄ±l veya dÃ¼zlÃ¼k alan.
+A flat area of sand, gravel or pebble next to water.
+TÃ¼rler
+Species
+duruÅŸ pozisyonu (sadece giriÅŸ)
+stop position (entry only)
+Tidal Water Turbine
+Tidal Water Turbine
+Automated
+Automated
+KumtaÅŸÄ± Kutusu
+Grit Bin
+Minimum age
+Minimum age
+ways passing through the tunnel
+ways passing through the tunnel
+TÃ¼m araÃ§lar
+All vehicles
+Quarry
+Quarry
+Land use
+Land use
+A farm within a bigger settlement
+A farm within a bigger settlement
+Boatbuilder
+Boatbuilder
+College
+College
+Window construction
+Window construction
+Region
+Region
+Distance (kilometers)
+Distance (kilometers)
+Puset rampasÄ±
+Stroller ramp
+Bisiklet iÃ§in tek yÃ¶nlÃ¼
+Oneway for bicycle
+District
+District
+Fell
+Fell
+Beauty
+Beauty
+OperatÃ¶r
+Operator
+Toplu TaÅŸÄ±ma GÃ¼zergahÄ±
+Public Transport Route
+Bunker Silo
+Bunker Silo
+Deniz YakÄ±tÄ±
+Marine Fuel
+Basketball
+Basketball
+Fishing
+Fishing
+Racetrack
+Racetrack
+house
+house
+Quango
+Quango
+Places
+Places
+Ä°steÄŸe baÄŸlÄ± geÃ§iÅŸ Ã¶znitelikleri:
+Optional crossing attributes:
+Cryptocurrencies
+Cryptocurrencies
+Kapasite (genel)
+Capacity (overall)
+street
+street
+Lock Gate
+Lock Gate
+Power Cable
+Power Cable
+GeniÅŸlik (metre)
+Width (meters)
+Bus Station
+Bus Station
+Wastewater Treatment Plant
+Wastewater Treatment Plant
+Pub
+Pub
+A mountain or hill ridge.
+A mountain or hill ridge.
+Tek yÃ¶n (bisiklet)
+Oneway (bicycle)
+Rounders
+Rounders
+Waterway
+Waterway
+Attraction
+Attraction
+Gasoline Power Generator
+Gasoline Power Generator
+Wood
+Wood
+Department Store
+Department Store
+Skiing
+Skiing
+RC Car
+RC Car
+Zirai
+Agricultural
+platform (sadece giriÅŸ)
+platform (entry only)
+ICAO
+ICAO
+Sub area
+Sub area
+Ä°stinat DuvarÄ±
+Retaining Wall
+Maks. geniÅŸlik (metre)
+Max. width (meters)
+Kombine YÃ¼rÃ¼me ve Bisiklet Yolu
+Combined Foot- and Cycleway
+Continent
+Continent
+Wind Turbine
+Wind Turbine
+infrastructure
+infrastructure
+Laser
+Laser
+Cycle Lane/Track
+Cycle Lane/Track
+Giysiler
+Clothes
+Boule
+Boule
+Phone number
+Phone number
+Hairdresser/Barber
+Hairdresser/Barber
+Hendek
+Ditch
+Cabinet maker
+Cabinet maker
+Australian Football
+Australian Football
+Feribot Terminali
+Ferry Terminal
+Support
+Support
+Print shop
+Print shop
+Backrest
+Backrest
+Ä°nce Silindirler: Paten, kaykay
+Thin Rollers: rollerblade, skateboard
+Count
+Count
+Furniture
+Furniture
+Åžube operatÃ¶rÃ¼
+Branch operator
+Isolated Dwelling
+Isolated Dwelling
+Set
+Groyne
+Cricket
+Cricket
+Fire Station
+Fire Station
+Drive-in theater
+Drive-in theater
+Åžebeke
+Network
+AraÃ§ baÅŸÄ±na kiÅŸi sayÄ±sÄ±
+Number of people per car
+Neredeyse hiÃ§ yeÅŸermeyen bitkiler.
+Plants that are never entirely without green foliage.
+Computer
+Computer
+Reference FGKZ (DE)
+Reference FGKZ (DE)
+Shower
+Shower
+Billboard
+Billboard
+Cash (ch)
+Cash (ch)
+Cable Distribution Cabinet
+Cable Distribution Cabinet
+shortcut segment
+shortcut segment
+FÃ¼nikÃ¼ler
+Funicular
+Maks. uzunluk (metre)
+Max. length (meters)
+Bus Platform
+Bus Platform
+EÅŸyalar
+Goods
+Relations
+Relations
+Kar aracÄ±
+Snowmobile
+Chimney
+Chimney
+DÃ¶ngÃ¼
+Cycle
+Social Centre
+Social Centre
+Mason
+Mason
+Visa Electron
+Visa Electron
+Emergency Access Point
+Emergency Access Point
+Country
+Country
+OtobÃ¼s KÄ±zaÄŸÄ±
+Bus Guideway
+Seismic Activity
+Seismic Activity
+Fireplace
+Fireplace
+Site
+Site
+Hamlet
+Hamlet
+Ã–lÃ§Ã¼ (mm)
+Gauge (mm)
+Wave Energy Converter
+Wave Energy Converter
+Heating engineer
+Heating engineer
+Regina
+Regina
+Glass
+Glass
+Kara ile deniz arasÄ±ndaki Ã§izgi (yolun saÄŸ tarafÄ±ndaki suyla).
+Line between the sea and land (with the water on the right side of the way).
+traffic light or barrier that stops you
+traffic light or barrier that stops you
+Plastic
+Plastic
+KullanÄ±lmayan Demiryolu
+Disused Rail
+Research
+Research
+Local name
+Local name
+Coffee
+Coffee
+Motorcycle brand
+Motorcycle brand
+Karayolu
+Highways
+Bisiklet rampasÄ±
+Bicycle ramp
+Interior Decoration
+Interior Decoration
+Trabzan
+Handrail
+Vending Machine
+Vending Machine
+Number of screens
+Number of screens
+Swing Gate
+Swing Gate
+Ãœcret
+Fee
+Hemzemin GeÃ§it
+Level Crossing
+Su KÃ¼tlesi
+Water Body
+Motel
+Motel
+Havai taÅŸÄ±ma
+aerialway
+elektrik akÄ±mÄ±
+electricity
+A board with information.
+A board with information.
+Wayside Cross
+Wayside Cross
+Pipeline
+Pipeline
+Bina GeÃ§idi
+Building Passage
+Baraj
+Dam
+TÃ¼r
+Type
+KapalÄ± Rezervuar
+Covered Reservoir
+Viewpoint
+Viewpoint
+Recreation Ground
+Recreation Ground
+Ä°niÅŸ (m)
+Descent (m)
+Pole Attributes:
+Pole Attributes:
+Electrician
+Electrician
+Access rights
+Access rights
+Picnic Table
+Picnic Table
+Tax advisor
+Tax advisor
+Motorlu taÅŸÄ±t yolu
+Motorroad
+Site name
+Site name
+Motorlu araÃ§
+Motor vehicle
+Bare lower lying uncultivated land with bushes but little or no tree cover.
+Bare lower lying uncultivated land with bushes but little or no tree cover.
+(Please only use this tag if more detailed mapping using busbars and bays is impossible!)
+(Please only use this tag if more detailed mapping using busbars and bays is impossible!)
+perimeter of the site
+perimeter of the site
+Residential Building
+Residential Building
+Road Route
+Road Route
+FÃ¼nikÃ¼ler
+funicular
+Spor
+Sport
+sÄ±cak hava
+hot air
+Railway Land
+Railway Land
+Seats count
+Seats count
+YakÄ±t kartlarÄ±:
+Fuel cards:
+Driving School
+Driving School
+Enerji Ã§Ä±kÄ±ÅŸ biÃ§imleri:
+Output forms of energy:
+Hospital
+Hospital
+Cemetery
+Cemetery
+Food Court
+Food Court
+sÄ±cak su
+hot water
+Culture
+Culture
+Trafik AynasÄ±
+Traffic Mirror
+Rock
+Rock
+Visible Headframe
+Visible Headframe
+GiriÅŸ (Bariyer AÃ§Ä±ÄŸÄ±)
+Entrance (Barrier Opening)
+Place of Worship
+Place of Worship
+all methods
+all methods
+Piste Route
+Piste Route
+After school capacity
+After school capacity
+Theatre
+Theatre
+Manually
+Manually
+Bisiklet yolu
+Cycleway
+Reference GNIS (USA)
+Reference GNIS (USA)
+translator-credits
+translator-credits
+Sokaklar
+Streets
+GeÃ§iÅŸ Yeri
+Passing Place
+link segment
+link segment
+Email Address
+Email Address
+Yaya GeÃ§idi
+Pedestrian Crossing
+GLONASS Signals
+GLONASS Signals
+Childcare
+Childcare
+YakÄ±t tipi:
+Fuel types:
+Ä°kinci el
+Second hand
+Digital
+Digital
+soÄŸuk hava
+cold air
+Boundaries
+Boundaries
+to way
+to way
+Groundwater
+Groundwater
+Recycling Container
+Recycling Container
+Voltaj
+Voltage
+Reference REGINE (NO)
+Reference REGINE (NO)
+Power Route
+Power Route
+Power Plant
+Power Plant
+Tek yÃ¶n
+Oneway
+Gaelic Games
+Gaelic Games
+Dispensing
+Dispensing
+Fast Food
+Fast Food
+Bag
+Bag
+Ebeveynler iÃ§in alan
+Spaces for Parents
+Terminal
+Terminal
+Newspaper Stand
+Newspaper Stand
+Ã‡arpma KapÄ±
+Bump Gate
+Referans numarasÄ±
+Reference Number
+Commercial
+Commercial
+Weather
+Weather
+Bar
+Bar
+SaÄŸdan aÃ§Ä±lÄ±r
+Open on right side
+Bariyerler
+Barriers
+Turner
+Turner
+KorunmuÅŸ
+Preserved
+Sanitary Dump Station
+Sanitary Dump Station
+Toplu taÅŸÄ±ma gÃ¼zergahÄ± (Eski)
+Public transport route (Legacy)
+Koy
+Bay
+Canoeing/Kayaking
+Canoeing/Kayaking
+Current Status
+Current Status
+Kalkar GeÃ§it
+Lift Gate
+GÃ¼venlik denetimi
+Safety inspection
+Pole
+Pole
+anaerobic_digestion / combustion
+anaerobic_digestion / combustion
+Information Board
+Information Board
+Wine
+Wine
+Dur
+Stop
+Kanal
+Canal
+Power rating (kvar/Mvar)
+Power rating (kvar/Mvar)
+forward halt point
+forward halt point
+Laboratory
+Laboratory
+Maks. hÄ±z (km/s)
+Max. speed (km/h)
+run-of-the-river
+run-of-the-river
+Phases
+Phases
+For group
+For group
+Street name
+Street name
+Ã‡it
+Fence
+Nehir kÄ±yÄ±sÄ±
+Riverbank
+Village Green
+Village Green
+edge ways parallel to 'through'
+edge ways parallel to 'through'
+Hangar
+Hangar
+Method
+Method
+Trafik Ä°ÅŸareti
+Traffic Signal
+Motosiklet Bayisi
+Motorcycle Dealer
+Erotic
+Erotic
+Note
+Note
+Saatlik kiÅŸi sayÄ±sÄ±
+Number of people per hour
+Excrement Bags
+Excrement Bags
+Museum
+Museum
+Political
+Political
+Fabric
+Fabric
+Battlefield
+Battlefield
+Building part
+Building part
+SatÄ±ÅŸ
+Sale
+Kargo
+Cargo
+Beach Volleyball
+Beach Volleyball
+GeÃ§iÅŸ gÃ¶revlisi
+Crossing attendant
+Fixme
+Fixme
+Airport Ground
+Airport Ground
+Dolgu
+Embankment
+Waste Basket/Trash Can
+Waste Basket/Trash Can
+Information using headphones or a mobile phone.
+Information using headphones or a mobile phone.
+Web sitesi
+Website
+AtlÄ± geÃ§iÅŸ
+Cross on horseback
+Ã‡Ä±kÄ±ÅŸ
+Exit to
+Menfez
+Culvert
+Mineshaft
+Mineshaft
+Baby Hatch/Safe Haven
+Baby Hatch/Safe Haven
+Bed
+Bed
+Discover Card
+Discover Card
+Moneo (fr)
+Moneo (fr)
+Publisher
+Publisher
+KemeraltÄ±
+Colonnade
+Plasterer
+Plasterer
+Storage Tank
+Storage Tank
+Hafif Ticari AraÃ§lar (eÅŸya)
+Light Commercial Vehicles (goods)
+Ã‡arÅŸÄ±
+Arcade
+Tuzlu Su
+Salt Water
+Carpet layer
+Carpet layer
+Ã‡iftlik
+Farm
+Orphanage
+Orphanage
+SÄ±ÄŸÄ±r Engeli
+Cattle Grid
+Consulting
+Consulting
+Private Swimming Pool
+Private Swimming Pool
+Phone Number
+Phone Number
+Pole with Transformer
+Pole with Transformer
+Heath
+Heath
+Power
+Power
+Estate agent
+Estate agent
+Sand
+Sand
+location of enforcement device
+location of enforcement device
+Radiation
+Radiation
+GeÃ§iÅŸ tipi
+Crossing type
+Tattoo
+Tattoo
+Electrical Appliances
+Electrical Appliances
+Associated Street
+Associated Street
+Stone
+Stone
+Metro
+Subway
+Retail
+Retail
+spring of waterway
+spring of waterway
+Orchard
+Orchard
+Quick (au)
+Quick (au)
+node on way where enforcement starts
+node on way where enforcement starts
+Bisiklet satÄ±ÅŸ
+Bicycles are sold
+Automated Defibrillator
+Automated Defibrillator
+Engelliler iÃ§in alan
+Spaces for Disabled
+Tersane
+Boatyard
+Rugby League
+Rugby League
+Zaman sÄ±nÄ±rÄ± (dakika)
+Time Limit (minutes)
+Kamu Hizmet AraÃ§larÄ± (KHA)
+Public Service Vehicles (psv)
+Multipolygon
+Multipolygon
+Maks. dingil aÄŸÄ±rlÄ±ÄŸÄ± (ton)
+Max. axleload (tonnes)
+Insulation
+Insulation
+Scrap Metal
+Scrap Metal
+Hampshire Gate
+Hampshire Gate
+Golf
+Golf
+RÄ±htÄ±m
+Pier
+Wilderness Hut
+Wilderness Hut
+Locality
+Locality
+Location transition
+Location transition
+Administrative level
+Administrative level
+Otoyol
+Motorway
+Paint
+Paint
+Construction Area
+Construction Area
+Bare upper lying uncultivated land principally covered with grass and often grazed.
+Bare upper lying uncultivated land principally covered with grass and often grazed.
+Social Club
+Social Club
+Alan
+Area
+Ä°nternet eriÅŸimi
+Internet access
+University
+University
+Direction in degrees
+Direction in degrees
+Sculptor
+Sculptor
+Airport
+Airport
+YÃ¼ksek dolu araÃ§lar (hov)
+High-occupancy vehicles (hov)
+Boundary type
+Boundary type
+Hurling
+Hurling
+Su Seddi
+Weir
+Mobile Phone
+Mobile Phone
+Servis yolu tÃ¼rÃ¼
+Service way type
+Trafik Ä±ÅŸÄ±klarÄ±
+Traffic lights
+from way
+from way
+Industrial
+Industrial
+GiÅŸe
+Toll Booth
+Bariyer
+Barrier
+Hunting Stand
+Hunting Stand
+Youth Centre
+Youth Centre
+Regional name
+Regional name
+School
+School
+Golf Course
+Golf Course
+Ä°skele babasÄ± tipi
+Bollard type
+Numara
+Number
+where enforcement ends
+where enforcement ends
+Feribot
+ferry
+Neighbourhood
+Neighbourhood
+Point Number
+Point Number
+Tower type
+Tower type
+Tram Stop
+Tram Stop
+Plastic Packaging
+Plastic Packaging
+Peak
+Peak
+Gemiler
+Shipping
+Water Tower
+Water Tower
+Ä°Ã§me suyu
+Drinking Water
+ways passing under the bridge
+ways passing under the bridge
+Small Appliances
+Small Appliances
+Park AlanÄ± GiriÅŸi
+Parking Entrance
+where to place the label
+where to place the label
+Garden
+Garden
+Volt gerilim (V)
+Voltage in Volts (V)
+Scree
+Scree
+Visa Debit
+Visa Debit
+Ã‡Ã¶p kutusu
+Bin
+photovoltaic
+photovoltaic
+Diameter (in mm)
+Diameter (in mm)
+Physician
+Physician
+Tekerlekli araÃ§ hariÃ§
+No wheeled vehicle
+Malzeme
+Material
+Archaeological Site
+Archaeological Site
+Bisiklet
+Bicycle
+Football
+Football
+Car brand
+Car brand
+branch waterways (no riverbank)
+branch waterways (no riverbank)
+Hiking
+Hiking
+Mounted on
+Mounted on
+Greenfield
+Greenfield
+Feribot
+Ferry
+Kayak
+Ski
+Tents allowed
+Tents allowed
+Forestry
+Forestry
+houses belonging to the street
+houses belonging to the street
+Park koridoru
+Parking Aisle
+climbing up to second grade. Often very exposed, precarious jagged rocks, glacier with danger to slip and fall
+climbing up to second grade. Often very exposed, precarious jagged rocks, glacier with danger to slip and fall
+Park Yeri
+Parking Space
+Acil Telefonu
+Emergency Phone
+Biogas Power Generator
+Biogas Power Generator
+Ä°kincil adÄ±
+Second Name
+SAC Scale
+SAC Scale
+Nuclear Reactor
+Nuclear Reactor
+EriÅŸim
+Access
+Tuvaletler
+Toilets
+DÃ¶nÃ¼ÅŸ Ã‡apÄ±
+Turning Circle
+Image
+Image
+Money Exchange
+Money Exchange
+100 Oktan
+Octane 100
+Yaya Ã¶ncelikli yol
+Living Street
+PaylaÅŸÄ±m
+Sharing
+Fire Hydrant
+Fire Hydrant
+Amperaj
+Amperage
+DolmuÅŸ
+Share taxi
+Windmill
+Windmill
+Lawyer
+Lawyer
+duruÅŸ pozisyonu (sadece Ã§Ä±kÄ±ÅŸ)
+stop position (exit only)
+An accumulation of loose rocks.
+An accumulation of loose rocks.
+platform (sadece Ã§Ä±kÄ±ÅŸ)
+platform (exit only)
+Hortuvar
+Buffer Stop
+YokuÅŸ (m)
+Ascent (m)
+Island
+Island
+Safety Training
+Safety Training
+Park et devam et
+Park and Ride
+Via (intermediate stops)
+Via (intermediate stops)
+Baseball
+Baseball
+A low area between hills.
+A low area between hills.
+Lawn Bowling
+Lawn Bowling
+Distillery
+Distillery
+Greenhouse Horticulture
+Greenhouse Horticulture
+E10 (%10 Etanol karÄ±ÅŸÄ±m)
+E10 (10% Ethanol mix)
+Lastikler
+Tires
+Tren
+Train
+Map
+Map
+Hostel
+Hostel
+American Express
+American Express
+Zincir
+Chain
+Frame
+Frame
+Arts Centre
+Arts Centre
+Stil
+Stile
+Ã‡Ä±ÄŸ Koruyucu
+Avalanche Protector
+Official name
+Official name
+Cardboard
+Cardboard
+Valves
+Valves
+Monitoring:
+Monitoring:
+American Football
+American Football
+Batteries
+Batteries
+Railway milestone
+Railway milestone
+Renk (HTML kodu veya on altÄ±lÄ±k kod)
+Color (HTML name or hexadecimal code)
+anything related to the street
+anything related to the street
+member
+member
+Irmak
+River
+Division
+Division
+Historic Places
+Historic Places
+Sport Facilities
+Sport Facilities
+Structure
+Structure
+Boundary Stone
+Boundary Stone
+KÄ±zak
+Slipway
+Government
+Government
+Karayolu platformu (eski)
+Highway platform (legacy)
+MTB Scale
+MTB Scale
+Bilet Makinesi
+Ticket Machine
+Copy Shop
+Copy Shop
+Annotation
+Annotation
+Metal construction
+Metal construction
+Referans numarasÄ±
+Reference number
+Beekeeper
+Beekeeper
+GPS Signals
+GPS Signals
+Ses sinyalleri
+Sound signals
+Sollama
+Overtaking
+Landfill
+Landfill
+Insurance
+Insurance
+Ã‡amurla kaplÄ± geniÅŸ alan.
+Large area covered with mud.
+Accommodation
+Accommodation
+Hiking Route
+Hiking Route
+GeÃ§iÅŸ Ã¼creti
+Toll
+Deli (Fine Food)
+Deli (Fine Food)
+Bot
+Boat
+Church
+Church
+Bisiklet tamir edilir
+Bicycles are repaired
+Doctor's Office
+Doctor's Office
+Sports Centre
+Sports Centre
+Food+Drinks
+Food+Drinks
+Grass
+Grass
+Bisiklet yolu saÄŸ
+Cycleway right
+Monitoring Station
+Monitoring Station
+Reservation
+Reservation
+Ã‡Ä±kÄ±ÅŸ yok (Ã§Ä±kmaz sokak)
+No exit (cul-de-sac)
+Birincil
+Primary
+Bisiklet yÄ±kanÄ±r (Ã¼cretli)
+Bicycles are washed (for a fee)
+Boutique
+Boutique
+Ä°kincil baÄŸlantÄ±sÄ±
+Secondary Link
+A single tree.
+A single tree.
+A notable rock or group of rocks, with at least one of them firmly attached to the underlying bedrock.
+A notable rock or group of rocks, with at least one of them firmly attached to the underlying bedrock.
+Yol iÅŸaretleri
+Waypoints
+Turist otobÃ¼sleri
+Tourist buses
+Water Park
+Water Park
+Courthouse
+Courthouse
+Cafe
+Cafe
+Patika sÃ¼rekli iniÅŸli Ã§Ä±kÄ±ÅŸlÄ±. Arazi kÄ±smen dik, dÃ¼ÅŸme tehlikesi var.
+Trail with continuous line and balanced ascent. Terrain partially steep, fall hazard possible
+Yol (Bilinmeyen TÃ¼r)
+Road (Unknown Type)
+Organic
+Organic
+Glass Bottles
+Glass Bottles
+IATA
+IATA
+Tinsmith
+Tinsmith
+Jeweller
+Jeweller
+Parquet layer
+Parquet layer
+City
+City
+Greengrocer
+Greengrocer
+Sandalye baÅŸÄ± kiÅŸi sayÄ±sÄ±
+Number of people per chair
+street (up to 20m)
+street (up to 20m)
+Pawnbroker
+Pawnbroker
+Railway halt (legacy)
+Railway halt (legacy)
+Power Compensator
+Power Compensator
+Information Terminal
+Information Terminal
+Shinto Shrine
+Shinto Shrine
+Bare lower lying uncultivated land with a shrubland habitat found mainly on free-draining infertile, acidic soils, and is characterised by open, low-growing woody vegetation.
+Bare lower lying uncultivated land with a shrubland habitat found mainly on free-draining infertile, acidic soils, and is characterised by open, low-growing woody vegetation.
+Audio Guide
+Audio Guide
+DiÄŸer kapasiteler iÃ§in Vikiye bakÄ±nÄ±z 
+See the Wiki for other capacity:[types]=*.
+Notary
+Notary
+GÃ¶rÃ¼nÃ¼rlÃ¼k
+Visibility
+Yol Ver
+Give Way
+Hotel
+Hotel
+Dog Park
+Dog Park
+Destination
+Destination
+1/25 mix (mofa/moped)
+1/25 mix (mofa/moped)
+Tramvay duraÄŸÄ± (eski)
+Tram stop (legacy)
+Duvar
+Wall
+Helipad
+Helipad
+Telephone
+Telephone
+Remote
+Remote
+Numbering scheme
+Numbering scheme
+County
+County
+AraÃ§ eriÅŸimi
+Vehicle access
+Printed Material
+Printed Material
+A board with a map.
+A board with a map.
+Cins
+Genus
+Garages
+Garages
+Ä°l SÄ±nÄ±rÄ±
+City Limit
+Height
+Height
+Beverages
+Beverages
+Mastercard
+Mastercard
+Araba bayisi
+Car Dealer
+Gondol baÅŸÄ±na kiÅŸi sayÄ±sÄ±
+Number of people per gondola
+Fiziksel kÄ±sÄ±tlamalar
+Physical restrictions
+Cooperative
+Cooperative
+Ä°kinci el bisiklet satÄ±ÅŸ
+Second-hand bicycles are sold
+Telecommunication
+Telecommunication
+KabarcÄ±k var mÄ±?
+Has bubble?
+Key cutter
+Key cutter
+KÄ±yÄ± ÅŸeridi
+Coastline
+Restriction
+Restriction
+Scaffolder
+Scaffolder
+Telesiyej
+Chair Lift
+YakÄ±t
+Fuel
+Paper
+Paper
+Forest
+Forest
+Dakika olarak tipik yolculuk sÃ¼resi
+Typical journey time in minutes
+Dogecoin
+Dogecoin
+Ä°z
+Track
+Picnic Site
+Picnic Site
+National name
+National name
+Turnike
+Turnstile
+Bookmaker
+Bookmaker
+City name
+City name
+Shoes
+Shoes
+Waste
+Waste
+Terk edilmiÅŸ Demiryolu
+Abandoned Rail
+Telephone cards
+Telephone cards
+Painter
+Painter
+Subtype of waterway (largest one of members)
+Subtype of waterway (largest one of members)
+Recording:
+Recording:
+A persistent body of dense ice that is constantly moving under its own weight.
+A persistent body of dense ice that is constantly moving under its own weight.
+Ä°nÅŸaat
+Construction
+UÃ§urum
+Cliff
+Ã‡it
+Hedge
+A line of trees.
+A line of trees.
+The entrance to a cave.
+The entrance to a cave.
+JCB
+JCB
+A steep rock face exposure, with a significant vertical, or near vertical (leave the lower face to the right of the way).
+A steep rock face exposure, with a significant vertical, or near vertical (leave the lower face to the right of the way).
+Age group (ie: 6-12)
+Age group (ie: 6-12)
+Servis tÃ¼rÃ¼
+Service type
+Bridge Support
+Bridge Support
+Ranger Station
+Ranger Station
+Bridges
+Bridges
+Saddler
+Saddler
+Su kÃ¼tlesi aralÄ±klÄ± mÄ± (mevsimsel olarak kayboluyor mu)?
+Is the water body intermittent (disappears seasonally)?
+Book Store
+Book Store
+Shows humidity
+Shows humidity
+Runway
+Runway
+Internet Access
+Internet Access
+Beacon
+Beacon
+Winery
+Winery
+duruÅŸ pozisyonu
+stop position
+Shows current date
+Shows current date
+Bancomat
+Bancomat
+YÃ¼ksek Tavan: hafif yÃ¼klÃ¼ off-road araÃ§larÄ±
+High Clearance: light duty off-road vehicle
+Public Grill
+Public Grill
+Alpine Hut
+Alpine Hut
+Accountant
+Accountant
+LPG (SÄ±vÄ±laÅŸtÄ±rÄ±lmÄ±ÅŸ Petrol GazÄ±)
+LPG (Liquefied petroleum gas)
+Saddle
+Saddle
+Kamu Bisiklet Tamir Ä°stasyonu
+Public Bicycle Repair Station
+Oil Power Generator
+Oil Power Generator
+Ã‡alÄ±ÅŸtÄ±rma dÃ¼ÄŸmesi
+Button operated
+YÄ±lÄ±n belli bir kesiminde yapraklarÄ±nÄ± kÄ±smen yitiren bitkiler.
+Plants that lose most, but not all, of their foliage for a fraction of the year.
+Upholsterer
+Upholsterer
+ParÃ§alar
+Parts
+Exceptions
+Exceptions
+Bio Dizel
+Bio Diesel
+Entrance number
+Entrance number
+Type of transformer
+Type of transformer
+Military
+Military
+OtobÃ¼s
+Bus
+OtobÃ¼s TuzaÄŸÄ±
+Bus Trap
+HÄ±z RadarÄ±
+Speed Camera
+Soccer
+Soccer
+Operation times
+Operation times
+AyrÄ±lmÄ±ÅŸ Bisiklet Yolu
+Dedicated Cycleway
+PÃ¼rÃ¼zsÃ¼zlÃ¼k
+Smoothness
+Rooms
+Rooms
+Ä°skele babasÄ±
+Bollard
+Educational institution
+Educational institution
+3D
+3D
+Hizmet ZamanlarÄ±
+Service Times
+Ref of the way this is a detour to
+Ref of the way this is a detour to
+Gemi havuzu
+Dock
+Operator type
+Operator type
+Power Generator
+Power Generator
+Diesel Power Generator
+Diesel Power Generator
+rope_tow
+rope_tow
+Gemi
+Ship
+Veterinary
+Veterinary
+Diners Club
+Diners Club
+Display
+Display
+Length (meters)
+Length (meters)
+Recycling Centre
+Recycling Centre
+Power rating (MVA)
+Power rating (MVA)
+edge ways parallel to 'across'
+edge ways parallel to 'across'
+Subdistrict
+Subdistrict
+Tailor
+Tailor
+Horse Riding
+Horse Riding
+Ä°sim
+Name
+Reference (track number)
+Reference (track number)
+Merkez trabzan
+Center handrail
+Town
+Town
+YÄ±kama
+Wash
+node of the intersection
+node of the intersection
+Advertising agency
+Advertising agency
+Label point
+Label point
+Min. hÄ±z (km/s)
+Min. speed (km/h)
+Roofer
+Roofer
+Branch tower type
+Branch tower type
+SÄ±nÄ±r KontrolÃ¼
+Border Control
+Political party
+Political party
+Brewery
+Brewery
+Power rating (kVA/MVA)
+Power rating (kVA/MVA)
+Yayalar
+Pedestrians
+Åžehir DuvarÄ±
+City Wall
+Collection times
+Collection times
+rota bÃ¶lÃ¼mleri
+route segment
+Post Box
+Post Box
+Maks. aÄŸÄ±rlÄ±k (ton)
+Max. weight (tonnes)
+Common
+Common
+Osmotic Power Generator
+Osmotic Power Generator
+Ã‡ivili kapan
+Spikes
+Amusement/Theme Park
+Amusement/Theme Park
+Grooming
+Grooming
+Kitchen
+Kitchen
+Photographer
+Photographer
+Durma Pozisyonu
+Stop Position
+Plane Parking Position
+Plane Parking Position
+Raceway
+Raceway
+Crafts
+Crafts
+forward segment
+forward segment
+Guide
+Guide
+Dentist
+Dentist
+Guidepost
+Guidepost
+Minipay (it)
+Minipay (it)
+Country code
+Country code
+Usage Position
+Usage Position
+Scrub
+Scrub
+Toys
+Toys
+Bare Rock
+Bare Rock
+Place of worship
+Place of worship
+Field Hockey
+Field Hockey
+Tactile Paving
+Tactile Paving
+AsansÃ¶r
+Elevator
+Rugby Union
+Rugby Union
+Sport (Ball)
+Sport (Ball)
+Camogie
+Camogie
+Social Workshop
+Social Workshop
+KavÅŸak
+Junction
+Ambulantory Care
+Ambulantory Care
+Cans
+Cans
+Frekans Hertz (Hz)
+Frequency in Hertz (Hz)
+Number of poles
+Number of poles
+Farm Stand
+Farm Stand
+Information access via electronic methods.
+Information access via electronic methods.
+Stand builder
+Stand builder
+Track and Field Athletics
+Track and Field Athletics
+Health
+Health
+route variant/direction (at least 2)
+route variant/direction (at least 2)
+Mountainbiking
+Mountainbiking
+Demir yolu platformu (eski)
+Railway platform (legacy)
+Geldkarte (de)
+Geldkarte (de)
+giriÅŸ noktasÄ±
+entry points
+Skipped height (meters)
+Skipped height (meters)
+Playground
+Playground
+SÄ±nÄ±flandÄ±rÄ±lmamÄ±ÅŸ
+Unclassified
+Kale
+Castle
+inner segment
+inner segment
+Konum
+Location
+DÃ¶nÃ¼ÅŸ alanÄ±
+Turning Loop
+Display:
+Display:
+Monument
+Monument
+Platform
+Platform
+Suburb
+Suburb
+Power Tower
+Power Tower
+Sauna
+Sauna
+Located inside a building?
+Located inside a building?
+Do-It-Yourself Store
+Do-It-Yourself Store
+Bisiklet Bariyeri
+Cycle Barrier
+Rota tÃ¼rÃ¼
+Route type
+Max. weight (tonnes, only if enforcement=maxweight)
+Max. weight (tonnes, only if enforcement=maxweight)
+Railway Route
+Railway Route
+Generator Type
+Generator Type
+Firepit
+Firepit
+Tekerlekli sandalyeler
+Wheelchairs
+Kapasite
+Capacity
+Outreach
+Outreach
+KaldÄ±rÄ±m
+Sidewalk
+Sulak
+Wetland
+Piste type
+Piste type
+Sembol aÃ§Ä±klama
+Symbol description
+Belirli Ã¼lkeler iÃ§in isteÄŸe baÄŸlÄ± deÄŸerler
+Optional values for specific countries
+Farmyard
+Farmyard
+DaÄŸ GeÃ§idi
+Mountain Pass
+Dressmaker
+Dressmaker
+natural
+natural
+Gondol
+Gondola
+Line type
+Line type
+Watermill
+Watermill
+Stationery
+Stationery
+Gardener
+Gardener
+Bisiklet Bayii
+Bike Dealer
+SÃ¼rÃ¼kleme AsansÃ¶rÃ¼
+Drag Lift
+Otoyol kavÅŸaÄŸÄ±
+Motorway Junction
+Pressure (in bar)
+Pressure (in bar)
+Florist
+Florist
+Air Quality
+Air Quality
+Dry Cleaning
+Dry Cleaning
+Model Aerodrome
+Model Aerodrome
+Valley
+Valley
+Pharmacy
+Pharmacy
+UIC-Reference
+UIC-Reference
+Maks. yÃ¼kseklik (metre)
+Max. height (meters)
+AÃ§Ä±klama
+Description
+Post Office
+Post Office
+KarÄ±ÅŸÄ±k AsansÃ¶r
+Mixed Lift
+Climbing
+Climbing
+Street has no name
+Street has no name
+Cash
+Cash
+outer segment
+outer segment
+run-of-the-river / water-storage
+run-of-the-river / water-storage
+Title or type of protection
+Title or type of protection
+Prison
+Prison
+Ä°stasyon veya kolaylÄ±klar
+Station or amenities
+Optician
+Optician
+Antiques
+Antiques
+Type of enforcement
+Type of enforcement
+Photographic laboratory
+Photographic laboratory
+Medical Supply
+Medical Supply
+GeÃ§itler
+Passageways
+Referans
+Reference
+Koruma Bariyeri
+Guard Rail
+Gas insulated
+Gas insulated
+Credit cards
+Credit cards
+Electronic
+Electronic
+Power Busbar
+Power Busbar
+Cutline
+Cutline
+Advertising Column
+Advertising Column
+Tramvay
+Tram
+Lottery
+Lottery
+gasification
+gasification
+ways supported by (on top of) the bridge
+ways supported by (on top of) the bridge
+entrances to the site, on the perimeter
+entrances to the site, on the perimeter
+Colour of border/arrow
+Colour of border/arrow
+Laundry
+Laundry
+Sclaverand (Presta)
+Sclaverand (Presta)
+Ä°nternet eriÅŸimi Ã¼cretli
+Internet access fee
+Geography
+Geography
+Company
+Company
+Scuba Diving
+Scuba Diving
+Power Bay
+Power Bay
+Builder
+Builder
+Mosque
+Mosque
+Chipknip (nl)
+Chipknip (nl)
+members of site
+members of site
+With shop
+With shop
+Horse Racing
+Horse Racing
+Vineyard
+Vineyard
+Ray
+Rail
+Funeral Directors
+Funeral Directors
+Archery
+Archery
+At
+Horse
+Ã‡Ä±kÄ±ÅŸ kapÄ±sÄ±
+Sally Port
+Tree
+Tree
+AkÄ±ntÄ±
+Stream
+Works
+Works
+Ã‡amur
+Mud
+Sports
+Sports
+Common name abbreviation
+Common name abbreviation
+Power Transformer
+Power Transformer
+Power Switchgear
+Power Switchgear
+Resource
+Resource
+Vacant
+Vacant
+Emniyet alanÄ± yokuÅŸ aÅŸaÄŸÄ± iniÅŸlerde kamyon ve diÄŸer araÃ§larÄ±n fren arÄ±zasÄ± gibi durumlarda gÃ¼venle durdurmak iÃ§in kullanÄ±lÄ±r
+Emergency lane beside long descending slopes for trucks and other vehicles to stop safely after brake failure.
+first way after junction
+first way after junction
+Movie Theater/Cinema
+Movie Theater/Cinema
+Yollar
+Ways
+Province
+Province
+Artist Name
+Artist Name
+Sihirli HalÄ±
+Magic Carpet
+Bridge outline
+Bridge outline
+International name
+International name
+Dunlop (Woods)
+Dunlop (Woods)
+Outdoor seating
+Outdoor seating
+EÄŸim
+Incline
+BankAxess
+BankAxess
+combustion
+combustion
+Tiler
+Tiler
+Araba
+Car
+Content
+Content
+fission
+fission
+Pitch
+Pitch
+Type of compensator
+Type of compensator
+Blok
+Block
+Biofuel Power Generator
+Biofuel Power Generator
+Åžeritler
+Lanes
+Zoo
+Zoo
+Street Lamp
+Street Lamp
+Large area covered with sand.
+Large area covered with sand.
+Merdivenler
+Steps
+Grassland
+Grassland
+Bicycle Route
+Bicycle Route
+Destination written on sign (w/o distance)
+Destination written on sign (w/o distance)
+Kart Racing
+Kart Racing
+Man Made
+Man Made
+Motorlu araÃ§ (CH)
+Motor vehicle (CH)
+Disused
+Disused
+Musical Instrument
+Musical Instrument
+platform
+platform
+Public Building
+Public Building
+Havza
+Basin
+Hindu Temple
+Hindu Temple
+Pottery
+Pottery
+Botanical Name
+Botanical Name
+buhar
+steam
+Protected Area
+Protected Area
+Other Place of Worship
+Other Place of Worship
+backward halt point
+backward halt point
+Triple tower
+Triple tower
+Åžarj Ä°stasyonu
+Charging Station
+Minicash (lu)
+Minicash (lu)
+AyrÄ±lmÄ±ÅŸ at binme yolu
+Dedicated Bridleway
+Ä°kincil
+Secondary
+Joiner
+Joiner
+DiÄŸer mod kÄ±sÄ±tlamalarÄ±
+Other mode restrictions
+Feribot RotasÄ±
+Ferry Route
+Zone
+Zone
+Level (ground floor is 0)
+Level (ground floor is 0)
+Garden Centre
+Garden Centre
+Genel eriÅŸim
+General access
+Servis
+Service
+Cleaning
+Cleaning
+GÃ¼Ã§lÃ¼ Tekerlekler: yÃ¼rÃ¼yÃ¼ÅŸ bisikleti, araba, Ã§ekÃ§ek
+Robust Wheels: trekking bike, car, rickshaw
+Travel Agency
+Travel Agency
+Denetimli
+Supervised
+Hydrant Position
+Hydrant Position
+Police
+Police
+Contact ('contact:*')
+Contact ('contact:*')
+Contact
+Contact
+Architect
+Architect
+... other transportation modes possible
+... other transportation modes possible
+Tea
+Tea
+Karayolu tÃ¼rÃ¼
+Highway type
+Casino
+Casino
+Palaeontological Site
+Palaeontological Site
+An office where you can get information about a town or region.
+An office where you can get information about a town or region.
+KÄ±smen karayla kaplÄ± geniÅŸ bir aÄŸzÄ± olan bÃ¼yÃ¼k su kÃ¼tlesi.
+A large body of water partially enclosed by land but with a wide mouth.
+variant segment
+variant segment
+Plastic Bottles
+Plastic Bottles
+Offices
+Offices
+Mondero 4b (es)
+Mondero 4b (es)
+Power Line
+Power Line
+Similar but different tags:
+Similar but different tags:
+Su
+Water
+Station
+Station
+Hendek
+Ditch
+A hint for other mappers (not for the end user), that an object needs an improvement.
+A hint for other mappers (not for the end user), that an object needs an improvement.
+State
+State
+It might be viewable to the end user (perhaps using a search system or a map with pop-ups).
+It might be viewable to the end user (perhaps using a search system or a map with pop-ups).
+A short text with additional information.
+A short text with additional information.
+Skipped Levels
+Skipped Levels
+Levels
+Levels
+GeÃ§it
+Gate
+Note
+Note
+An important hint for other mappers (not for the end user).
+An important hint for other mappers (not for the end user).
+Notes
+Notes
+Named Junction
+Named Junction
+Station
+Station
+Tracks
+Tracks
+Tower type
+Tower type
+State
+State
+YakÄ±t
+Fuel
+BarÄ±nak
+Shelter
+Male
+Male
+Female
+Female
+Unisex
+Unisex
