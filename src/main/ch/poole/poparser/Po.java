@@ -85,7 +85,7 @@ public class Po implements Serializable {
 	
 	/**
 	 * Return the full map 
-	 * @return
+	 * @return a map of maps (one per context) of the source and translations strings
 	 */
 	public Map<String,HashMap<String,String>> getMap() {
 		return m;

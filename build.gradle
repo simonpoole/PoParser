@@ -20,19 +20,29 @@ version = '0.7.0'
 sourceCompatibility = 1.7
 targetCompatibility = 1.7
 
+ext {
+    javaccOutput = file(project.buildDir.absolutePath + '/generated/javacc/ch/poole/poparser')
+    mainSource = file('src/main/ch/poole/poparser')
+    testSource = file('src/test/ch/poole/poparser')
+}
+
 compileJavacc {
-    inputDirectory = file('src/main/ch/poole/poparser')
-    outputDirectory = file(project.buildDir.absolutePath + '/generated/javacc/ch/poole/poparser')
+    inputDirectory = mainSource
+    outputDirectory = javaccOutput
 }
 
 compileJava {
-    source file(project.buildDir.absolutePath + '/generated/javacc/ch/poole/poparser'),file('src/main/ch/poole/poparser')
+    source javaccOutput,mainSource
 }
 
 compileTestJava {
-    source file(project.buildDir.absolutePath + '/generated/javacc/ch/poole/poparser'),file('src/main/ch/poole/poparser'),file('src/test/ch/poole/poparser')
+    source javaccOutput,mainSource,testSource
 }
 
+javadoc {
+    source mainSource, testSource
+    exclude '**/*.jj'
+}
 
 // In this section you declare where to find the dependencies of your project
 repositories {
