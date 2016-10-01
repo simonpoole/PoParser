@@ -19,7 +19,7 @@ apply plugin: 'maven'
 apply plugin: 'maven-publish'
 
 
-version = '0.7.0'
+version = '0.7.1'
 sourceCompatibility = 1.7
 targetCompatibility = 1.7
 
@@ -47,13 +47,26 @@ javadoc {
     exclude '**/*.jj'
 }
 
+task sourcesJar(type: Jar) {
+	from mainSource, testSource
+	classifier = 'sources'
+}
+
+task javadocJar(type: Jar, dependsOn: javadoc) {
+	classifier = 'javadoc'
+	from javadoc.destinationDir
+//	options.encoding = 'UTF-8'
+}
+
 publishing {
     publications {
-        MyPublication(MavenPublication) {
+        PoParser(MavenPublication) {
             from components.java
             groupId 'ch.poole'
             artifactId 'PoParser'
-            version '0.7.0'
+            version '0.7.1'
+			artifact sourcesJar 
+			artifact javadocJar 
         }
     }
 }
@@ -61,14 +74,14 @@ publishing {
 bintray {
     user = System.getenv('BINTRAY_USER')
     key = System.getenv('BINTRAY_KEY')
-    publications = ['MyPublication']
+    publications = ['PoParser']
     pkg {
         repo = 'div'
         name = 'PoParser'
         licenses = ['BSD 3-Clause']
         vcsUrl = 'https://github.com/simonpoole/PoParser.git'
         version {
-        	name = '0.7.0'
+        	name = '0.7.1'
         }
     }
 }
