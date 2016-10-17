@@ -82,6 +82,11 @@ bintray {
         vcsUrl = 'https://github.com/simonpoole/PoParser.git'
         version {
         	name = '0.7.1'
+			released  = new Date()
+			gpg {
+				sign = true //Determines whether to GPG sign the files. The default is false
+				passphrase = System.getenv('BINTRAY_PASSPHRASE')
+			}
         }
     }
 }
