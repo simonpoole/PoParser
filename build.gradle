@@ -19,7 +19,7 @@ apply plugin: 'maven'
 apply plugin: 'maven-publish'
 
 
-version = '0.7.1'
+version = '0.7.2'
 sourceCompatibility = 1.7
 targetCompatibility = 1.7
 
@@ -64,7 +64,6 @@ publishing {
             from components.java
             groupId 'ch.poole'
             artifactId 'PoParser'
-            version '0.7.1'
 			artifact sourcesJar 
 			artifact javadocJar 
         }
@@ -81,7 +80,7 @@ bintray {
         licenses = ['BSD 3-Clause']
         vcsUrl = 'https://github.com/simonpoole/PoParser.git'
         version {
-        	name = '0.7.1'
+        	name = '0.7.2'
 			released  = new Date()
 			gpg {
 				sign = true //Determines whether to GPG sign the files. The default is false
