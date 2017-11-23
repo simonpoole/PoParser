@@ -1,258 +1,0 @@
-/**
- * Minimalistic parser for .po files
- * Likly to crash and burn on anything else than a correct input file
- * @author Simon Poole
- *
- * Copyright (c) 2015 Simon Poole
- *
- * Permission is hereby granted, free of charge, to any person obtaining a copy of this software
- * and associated documentation files (the "Software"), to deal in the Software without restriction,
- * including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
- * and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
- * subject to the following conditions:
- * 
- * The above copyright notice and this permission notice shall be included in all copies
- * or substantial portions of the Software.
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
- * BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
- * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
- * WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
- " OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- */options{  JDK_VERSION = "1.6";
-  static = false;
-  LOOKAHEAD= 2;
-  FORCE_LA_CHECK = false;
-  CHOICE_AMBIGUITY_CHECK=2;
-  OTHER_AMBIGUITY_CHECK=2;
-  DEBUG_PARSER = false;
-  DEBUG_LOOKAHEAD = false;
-  DEBUG_TOKEN_MANAGER = false;
-  UNICODE_INPUT = true;}PARSER_BEGIN(PoParser)
-
-package ch.poole.poparser;
-
-import java.util.HashMap;
-import java.util.Map;
-import java.util.ArrayList;
-import java.io.FileInputStream;
-
-public class PoParser{
-}PARSER_END(PoParser)
-SKIP :{  " "| "\r"| "\t"}
-TOKEN :
-{
-<  WS : [ " ","\t" ] >
-}
-
-<DEFAULT> SKIP :
-{
-  <"#" (~["\n","\r"])* ("\n" | "\r" | "\r\n")>
-| <"\n" >
-}< DEFAULT > TOKEN :{
-  < MSGID : "msgid" > : ENTRY_STATE
-| < MSGSIDPLURAL : "msgid_plural" > : ENTRY_STATE
-| < MSGSTR : "msgstr" > : ENTRY_STATE
-| < MSGCTXT : "msgctxt" > : ENTRY_STATE}
-< ENTRY_STATE > TOKEN:
-{
- < NUMBER : ( < DIGIT > )+ >
-}
-
-< ENTRY_STATE > TOKEN :
-{
-< DIGIT : [ "0"-"9" ] >
-}
-
-  
-< ENTRY_STATE > SKIP:
-{
-  " "
-| "\r"
-| "\t"}
-
-< ENTRY_STATE > TOKEN :
-{
-  < EOE: "\n"> : DEFAULT
-}
-
-< ENTRY_STATE > TOKEN:
-{
-  <QUOTE:"\""> : STRING_STATE
-}
-
-< ENTRY_STATE > TOKEN:
-{
-  <LEFTBRACKET:"[">
-| <RIGHTBRACKET:"]" >
-}
-
-// hack for continuation lines
-< STRING_STATE > SKIP:
-{
-  "\"\n\""
-| "\"\r\n\""
-| "\r"
-}
-
-<STRING_STATE> MORE:
-{
-  "\\" : ESC_STATE
-}
-
-<STRING_STATE> TOKEN:
-{
-  <ENDQUOTE:<QUOTE>> : ENTRY_STATE
-| <CHAR:~["\"","\\"]>
-}
-
-<ESC_STATE> TOKEN:
-{
-  <CNTRL_ESC:["\"","\\","/","b","f","n","r","t"]> : STRING_STATE
-}
-
-/**
- * Match a quoted string.
- */
-String string() :
-{
-  StringBuilder builder = new StringBuilder();
-}
-{
-  <QUOTE> ( getChar(builder) )* <ENDQUOTE>
-  {
-    return builder.toString();
-  }
-}
-
-/**
- * Match char inside quoted string.
- */
-void getChar(StringBuilder builder):
-{
-  Token t;
-}
-{
-  ( t = <CHAR> | t = <CNTRL_ESC> )
-  {
-    if (t.image.length() < 2)
-    {
-      // CHAR
-      builder.append(t.image.charAt(0));
-    }
-    else if (t.image.length() < 6)
-    {
-      // ESC
-      char c = t.image.charAt(1);
-      switch (c)
-      {
-        case 'b': builder.append((char) 8); break;
-        case 'f': builder.append((char) 12); break;
-        case 'n': builder.append((char) 10); break;
-        case 'r': builder.append((char) 13); break;
-        case 't': builder.append((char) 9); break;
-        default: builder.append(c);
-      }
-    }
-  }
-}
-
-String msgctxt() :
-{
-	String ctxt = null;
-}
-{
-  < MSGCTXT >  ctxt = string() (< EOE >)?
-  {
-    return ctxt;
-  }
-}
-
-String msgid() :
-{	String id = null;
-}
-{  < MSGID >  id = string() < EOE >
-  {    return id;
-  }
-}
-
-String msgid_plural() :
-{
-	String id = null;
-}
-{
-  < MSGSIDPLURAL >  id = string() (< EOE >)?
-  {
-    return id;
-  }
-}
-
-String msgstr() :
-{
-	String str = null;
-}
-{
-  < MSGSTR >  str = string() (< EOE >)?
-  {
-    return str;
-  }
-}
-
-String msgstr_plural() :
-{
-  String str = null;
-}
-{
-  < MSGSTR > <LEFTBRACKET > < NUMBER > <RIGHTBRACKET > str = string() (< EOE >)?
-  {
-    return str;
-  }
-}
-
-PoEntry entry() :
-{  PoEntry entry = null;
-  String ctxt = null;
-  String id = null;
-  String id_plural = null;
-  String str = null;
-  String plural = null;
-  ArrayList<String > plurals = null;
-}
-{
-  (ctxt = msgctxt())?  id = msgid()
-  (id_plural = msgid_plural())?
-  ((str = msgstr())|(plural = msgstr_plural())+)
-  {
-    if (id != null && str != null)
-    { 
-      entry = new PoEntry();
-      entry.msgId = id;
-      entry.msgStr = str.length() == 0 ? null : str;
-      entry.msgCtxt = ctxt;
-   	} 
-    return entry;
-  }
-}
-HashMap<String,HashMap<String,String>> getMap() :
-{
-  HashMap<String,HashMap<String,String>>result = new HashMap<String,HashMap<String,String>>();
-  PoEntry entry = null;
-}
-{  (	(entry = entry()	  {  
-	  	if (entry != null)
-      	{
-      	  if (!result.containsKey(entry.msgCtxt))      	  {		    result.put(entry.msgCtxt,new HashMap<String,String>());
-      	  }
-    	  result.get(entry.msgCtxt).put(entry.msgId,entry.msgStr);
-   	  	}
-      }
-    ) |
-    ( < EOF >
-  	  {		return result;
-  	  }
-  	)
-  )+
-  {
-    return result;
-  }
-}
