@@ -19,7 +19,10 @@
  * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
  * WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
  " OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- */options{  JDK_VERSION = "1.6";
+ */
+options
+{
+  JDK_VERSION = "1.8";
   static = false;
   LOOKAHEAD= 2;
   FORCE_LA_CHECK = false;
@@ -28,7 +31,10 @@
   DEBUG_PARSER = false;
   DEBUG_LOOKAHEAD = false;
   DEBUG_TOKEN_MANAGER = false;
-  UNICODE_INPUT = true;}PARSER_BEGIN(PoParser)
+  UNICODE_INPUT = true;
+}
+
+PARSER_BEGIN(PoParser)
 
 package ch.poole.poparser;
 
@@ -37,9 +43,19 @@ import java.util.Map;
 import java.util.ArrayList;
 import java.io.FileInputStream;
 
-public class PoParser{
-}PARSER_END(PoParser)
-SKIP :{  " "| "\r"| "\t"}
+public class PoParser
+{
+
+}
+
+PARSER_END(PoParser)
+
+SKIP :
+{
+  " "
+| "\r"
+| "\t"
+}
 TOKEN :
 {
 <  WS : [ " ","\t" ] >
@@ -49,11 +65,15 @@ TOKEN :
 {
   <"#" (~["\n","\r"])* ("\n" | "\r" | "\r\n")>
 | <"\n" >
-}< DEFAULT > TOKEN :{
+}
+
+< DEFAULT > TOKEN :
+{
   < MSGID : "msgid" > : ENTRY_STATE
 | < MSGSIDPLURAL : "msgid_plural" > : ENTRY_STATE
 | < MSGSTR : "msgstr" > : ENTRY_STATE
-| < MSGCTXT : "msgctxt" > : ENTRY_STATE}
+| < MSGCTXT : "msgctxt" > : ENTRY_STATE
+}
 < ENTRY_STATE > TOKEN:
 {
  < NUMBER : ( < DIGIT > )+ >
@@ -69,7 +89,8 @@ TOKEN :
 {
   " "
 | "\r"
-| "\t"}
+| "\t"
+}
 
 < ENTRY_STATE > TOKEN :
 {
@@ -169,10 +190,13 @@ String msgctxt() :
 }
 
 String msgid() :
-{	String id = null;
+{
+	String id = null;
 }
-{  < MSGID >  id = string() < EOE >
-  {    return id;
+{
+  < MSGID >  id = string() < EOE >
+  {
+    return id;
   }
 }
 
@@ -210,7 +234,8 @@ String msgstr_plural() :
 }
 
 PoEntry entry() :
-{  PoEntry entry = null;
+{
+  PoEntry entry = null;
   String ctxt = null;
   String id = null;
   String id_plural = null;
@@ -219,7 +244,8 @@ PoEntry entry() :
   ArrayList<String > plurals = null;
 }
 {
-  (ctxt = msgctxt())?  id = msgid()
+  (ctxt = msgctxt())?
+  id = msgid()
   (id_plural = msgid_plural())?
   ((str = msgstr())|(plural = msgstr_plural())+)
   {
@@ -233,26 +259,34 @@ PoEntry entry() :
     return entry;
   }
 }
-HashMap<String,HashMap<String,String>> getMap() :
+
+HashMap<String,HashMap<String,String>> getMap() :
 {
   HashMap<String,HashMap<String,String>>result = new HashMap<String,HashMap<String,String>>();
   PoEntry entry = null;
 }
-{  (	(entry = entry()	  {  
+{
+  (
+	(entry = entry()
+	  {  
 	  	if (entry != null)
       	{
-      	  if (!result.containsKey(entry.msgCtxt))      	  {		    result.put(entry.msgCtxt,new HashMap<String,String>());
+      	  if (!result.containsKey(entry.msgCtxt))
+      	  {
+		    result.put(entry.msgCtxt,new HashMap<String,String>());
       	  }
     	  result.get(entry.msgCtxt).put(entry.msgId,entry.msgStr);
    	  	}
       }
     ) |
     ( < EOF >
-  	  {		return result;
+  	  {
+		return result;
   	  }
   	)
   )+
   {
     return result;
   }
-}
+}
+
