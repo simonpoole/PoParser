@@ -19,7 +19,7 @@
  * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
  * WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
  " OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- */options{  JDK_VERSION = "1.6";
+ */options{  JDK_VERSION = "1.8";
   static = false;
   LOOKAHEAD= 2;
   FORCE_LA_CHECK = false;
@@ -39,7 +39,7 @@ import java.io.FileInputStream;
 
 public class PoParser{
 }PARSER_END(PoParser)
-SKIP :{  " "| "\r"| "\t"}
+SKIP :{  " "| "\r"| "\t"}
 TOKEN :
 {
 <  WS : [ " ","\t" ] >
@@ -53,7 +53,7 @@ TOKEN :
   < MSGID : "msgid" > : ENTRY_STATE
 | < MSGSIDPLURAL : "msgid_plural" > : ENTRY_STATE
 | < MSGSTR : "msgstr" > : ENTRY_STATE
-| < MSGCTXT : "msgctxt" > : ENTRY_STATE}
+| < MSGCTXT : "msgctxt" > : ENTRY_STATE}
 < ENTRY_STATE > TOKEN:
 {
  < NUMBER : ( < DIGIT > )+ >
@@ -255,4 +255,4 @@ PoEntry entry() :
   {
     return result;
   }
-}
+}
