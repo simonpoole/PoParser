@@ -75,6 +75,7 @@ public class PoParserTest {
       		}
       		catch (Error e)
       		{
+      		    System.out.println("error " + e.getMessage());
       			fail("Caught an error " + e.getMessage());
       		} 	
     	} catch (FileNotFoundException fnfex)
