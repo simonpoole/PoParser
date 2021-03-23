@@ -35,6 +35,6 @@ You can either download the jar from github or add the following to your build.g
 	
 	dependencies {
 	    ...
-	    compile 'ch.poole:PoParser:0.7.0'
+	    compile 'ch.poole:PoParser:0.8.0'
 	    ...
 	}
