@@ -10,7 +10,7 @@ Coins
 Coins
 Suction pumpout
 Suction pumpout
-Bisiklet kiralanÄ±r
+Bisiklet kiralanır
 Bicycles are rented
 House number
 House number
@@ -20,7 +20,7 @@ Addresses
 Addresses
 Embassy
 Embassy
-Ãœcretsiz bisiklet pompasÄ±
+Ücretsiz bisiklet pompası
 Free bicycle pump
 Length in meters
 Length in meters
@@ -46,7 +46,7 @@ Pylon
 (please use isolated_dwelling for an isolated farm)
 Butcher
 Butcher
-Toplu TaÅŸÄ±ma (Eski)
+Toplu Taşıma (Eski)
 Public Transport (Legacy)
 Glacier
 Glacier
@@ -54,17 +54,17 @@ Chalet
 Chalet
 Karayolu
 Highway
-SÃ¼rekli yada mevsimsel bitki Ã¶rtÃ¼sÃ¼ ile kaplÄ± su emmiÅŸ alan.
+Sürekli yada mevsimsel bitki örtüsü ile kaplı su emmiş alan.
 Waterlogged area, either permanently or seasonally with vegetation.
 Bakery
 Bakery
 Kindergarten
 Kindergarten
-Metro giriÅŸi
+Metro girişi
 Subway Entrance
 Beds
 Beds
-Off-Road: aÄŸÄ±r yÃ¼klÃ¼ off-road aracÄ±
+Off-Road: ağır yüklü off-road aracı
 Off-Road: heavy duty off-road vehicle
 Taxiway
 Taxiway
@@ -80,7 +80,7 @@ Biomass Power Generator
 Biomass Power Generator
 Tree Row
 Tree Row
-BoÅŸaltÄ±m Ä°stasyonu
+Boşaltım İstasyonu
 Dump Station
 Miniature Golf
 Miniature Golf
@@ -90,7 +90,7 @@ Bina
 Building
 A single notable free-standing rock, which may differ from the composition of the terrain it lies in.
 A single notable free-standing rock, which may differ from the composition of the terrain it lies in.
-Bagaj rampasÄ±
+Bagaj rampası
 Luggage ramp
 National Park
 National Park
@@ -102,25 +102,25 @@ Visa
 Visa
 Rezervuar
 Reservoir
-Su eriÅŸim kurallarÄ±:
+Su erişim kuralları:
 Water access rules:
-YÃ¼zey
+Yüzey
 Surface
 From (initial stop)
 From (initial stop)
-Birincil baÄŸlantÄ±sÄ±
+Birincil bağlantısı
 Primary Link
 drag_lift (general type - use only if exact type (see values below) is unknown)
 drag_lift (general type - use only if exact type (see values below) is unknown)
 Racquetball
 Racquetball
-ilerlemek iÃ§in bazen elleri kullanmak gerekir. Alan gayet aÃ§Ä±k, tehlikeli Ã§imenler, pÃ¼rÃ¼zlÃ¼ kayalar, karsÄ±z kolay buzullaÅŸma
+ilerlemek için bazen elleri kullanmak gerekir. Alan gayet açık, tehlikeli çimenler, pürüzlü kayalar, karsız kolay buzullaşma
 sometimes need for hand use to get ahead. Terrain quite exposed, precarious grassy acclivities, jagged rocks, facile snow-free glaciers
 ways being part of street
 ways being part of street
 License Classes
 License Classes
-Dinlenme alanÄ±
+Dinlenme alanı
 Rest Area
 Public Market
 Public Market
@@ -150,13 +150,13 @@ Glaziery
 Glaziery
 Candy Store
 Candy Store
-Park alanÄ±
+Park alanı
 Parking
 UIC name
 UIC name
 Route Master
 Route Master
-Elektrikli sandalye rampasÄ±
+Elektrikli sandalye rampası
 Wheelchair ramp
 waterways (no riverbank)
 waterways (no riverbank)
@@ -166,7 +166,7 @@ Enforcement
 Enforcement
 Number of circuits
 Number of circuits
-Ufak DÃ¶nel KavÅŸak
+Ufak Dönel Kavşak
 Mini-Roundabout
 Equestrian
 Equestrian
@@ -176,11 +176,11 @@ Strip Club
 Strip Club
 Number of steps
 Number of steps
-DÃ¶ner
+Döner
 Turntable
 Movable Bridge
 Movable Bridge
-Kendin tamir etmek iÃ§in aletler (belki bisikletÃ§i yardÄ±m edebilir)
+Kendin tamir etmek için aletler (belki bisikletçi yardım edebilir)
 Tools for do-it-yourself repair (may be a bike co-operative)
 Name of river/lake/sea/ocean it runs into
 Name of river/lake/sea/ocean it runs into
@@ -200,7 +200,7 @@ Convenience Store
 Convenience Store
 Locksmith
 Locksmith
-OtobÃ¼s duraÄŸÄ± (eski)
+Otobüs durağı (eski)
 Bus stop (legacy)
 After school care
 After school care
@@ -214,7 +214,7 @@ Historical name
 Historical name
 Therapist
 Therapist
-soÄŸuk su
+soğuk su
 cold water
 Tourism
 Tourism
@@ -226,7 +226,7 @@ Beer Garden
 Beer Garden
 Night Club
 Night Club
-AÄŸÄ±r Hizmet AraÃ§larÄ± (aha)
+Ağır Hizmet Araçları (aha)
 Heavy Goods Vehicles (hgv)
 Mondero (ar)
 Mondero (ar)
@@ -236,7 +236,7 @@ Camera
 Camera
 Kiosk
 Kiosk
-Ä°zin verilen trafik:
+İzin verilen trafik:
 Allowed traffic:
 Detail Grade
 Detail Grade
@@ -256,7 +256,7 @@ Financial
 Financial
 Litecoin
 Litecoin
-Otoyol BaÄŸlantÄ±sÄ±
+Otoyol Bağlantısı
 Motorway Link
 Islet
 Islet
@@ -278,7 +278,7 @@ To (terminal stop)
 To (terminal stop)
 Marka
 Brand
-KadÄ±nlar iÃ§in alan
+Kadınlar için alan
 Spaces for Women
 Town Hall
 Town Hall
@@ -296,7 +296,7 @@ Leisure
 Leisure
 Video
 Video
-Ã–zel off-road aracÄ±: traktÃ¶r, ATV
+Özel off-road aracı: traktör, ATV
 Specialized off-road: tractor, ATV
 Plumber
 Plumber
@@ -306,25 +306,25 @@ Cable count
 Cable count
 Indoor
 Indoor
-trafik iÅŸaretleri durumunda:
+trafik işaretleri durumunda:
 In case of traffic signals:
 Handicraft
 Handicraft
-KÃ¶prÃ¼
+Köprü
 Bridge
 Logistics
 Logistics
 Carpenter
 Carpenter
-SÄ°gara iÃ§me
+Sİgara içme
 Smoking
-Anayol BaÄŸlantÄ±sÄ±
+Anayol Bağlantısı
 Trunk Link
 Cuisine
 Cuisine
 Demiryolu
 Railway
-Zincir aracÄ±
+Zincir aracı
 Chain tool
 Billiards
 Billiards
@@ -340,15 +340,15 @@ Farmland
 Farmland
 Vikipedia
 Wikipedia
-GeÃ§it
+Geçit
 Gate
 Protected Class
 Protected Class
-AyrÄ±lmÄ±ÅŸ Yaya Yolu
+Ayrılmış Yaya Yolu
 Dedicated Footway
 Incomplete tower
 Incomplete tower
-Patika gayet aÃ§Ä±k. Alan genelde dÃ¼z ya da hafif eÄŸimli, dÃ¼ÅŸme tehlikesi yok
+Patika gayet açık. Alan genelde düz ya da hafif eğimli, düşme tehlikesi yok
 Trail well cleared. Area flat or slightly sloped, no fall hazard
 Destination Sign
 Destination Sign
@@ -360,9 +360,9 @@ Tower design
 Tower design
 Shops
 Shops
-KaÃ§Ä±ÅŸ
+Kaçış
 Escape
-Durma AlanÄ±
+Durma Alanı
 Stop Area
 Apron
 Apron
@@ -370,15 +370,15 @@ Childcare capacity
 Childcare capacity
 Nursing Home
 Nursing Home
-DÃ¶nel KavÅŸak
+Dönel Kavşak
 Roundabout
 Nature Reserve
 Nature Reserve
 Drive through
 Drive through
-KiralÄ±k
+Kiralık
 Rental
-DÃ¶nÃ¼ÅŸ NoktasÄ±
+Dönüş Noktası
 Turning Point
 Transformer Attributes:
 Transformer Attributes:
@@ -402,7 +402,7 @@ Jewellery
 Jewellery
 Board Content
 Board Content
-BordÃ¼r
+Bordür
 Kerb
 Lighthouse
 Lighthouse
@@ -412,15 +412,15 @@ Food Bank
 Food Bank
 Skateboard
 Skateboard
-ElektriklenmiÅŸ
+Elektriklenmiş
 Electrified
 backward segment
 backward segment
-YÃ¼kseklik
+Yükseklik
 Elevation
 Allotments
 Allotments
-BarÄ±nak
+Barınak
 Shelter
 Route Network
 Route Network
@@ -448,7 +448,7 @@ Mezhep
 Denomination
 Brownfield
 Brownfield
-DuraÄŸan su kÃ¼tlesi, gÃ¶l veya gÃ¶let gibi.
+Durağan su kütlesi, göl veya gölet gibi.
 A body of standing water, such as a lake or pond.
 Ski Route
 Ski Route
@@ -456,9 +456,9 @@ Information Office
 Information Office
 Ice Hockey
 Ice Hockey
-Trafik SakinleÅŸtirici
+Trafik Sakinleştirici
 Traffic Calming
-UlaÅŸÄ±m
+Ulaşım
 Transport
 Used for data communications
 Used for data communications
@@ -470,7 +470,7 @@ Ana yol
 Trunk
 Variety Store
 Variety Store
-BaÅŸlangÄ±Ã§ tarihi
+Başlangıç tarihi
 Start date
 t-bar
 t-bar
@@ -480,15 +480,15 @@ Power supply
 Power supply
 Max. height (meters, only if enforcement=maxheight)
 Max. height (meters, only if enforcement=maxheight)
-Motorlu araÃ§lar
+Motorlu araçlar
 Motor vehicles
-YÃ¶n
+Yön
 Direction
 Height in meter (m)
 Height in meter (m)
 For the body
 For the body
-basÄ±nÃ§lÄ± hava
+basınçlı hava
 compressed air
 vakum
 vacuum
@@ -496,7 +496,7 @@ Recording Studio
 Recording Studio
 Place name
 Place name
-NÃ¼fus
+Nüfus
 Population
 A Signpost/Guidepost to indicate the directions to different destinations.
 A Signpost/Guidepost to indicate the directions to different destinations.
@@ -508,13 +508,13 @@ Flagpole
 Flagpole
 Organic/Bio
 Organic/Bio
-KullanÄ±m
+Kullanım
 Usage
 Address Interpolation
 Address Interpolation
-Demiryolu AnahtarÄ±
+Demiryolu Anahtarı
 Railway Switch
-Ä°nce Tekerlekler: yarÄ±ÅŸ bisikleti
+İnce Tekerlekler: yarış bisikleti
 Thin Wheels: racing bike
 Multi
 Multi
@@ -528,11 +528,11 @@ Railway Halt
 Railway Halt
 Clinic
 Clinic
-TroleybÃ¼s
+Troleybüs
 Trolleybus
 Nine-pin Bowling
 Nine-pin Bowling
-TÃ¼nel
+Tünel
 Tunnel
 Basket maker
 Basket maker
@@ -542,13 +542,13 @@ Tide Level
 Tide Level
 Teleferik
 Cable Car
-ÃœÃ§Ã¼ncÃ¼l baÄŸlantÄ±sÄ±
+Üçüncül bağlantısı
 Tertiary Link
 Cave Entrance
 Cave Entrance
 via node or ways
 via node or ways
-Acil durum araÃ§larÄ±
+Acil durum araçları
 Emergency vehicles
 Rigger
 Rigger
@@ -566,9 +566,9 @@ Electronics
 Electronics
 Seafood
 Seafood
-AyrÄ±lmÄ±ÅŸ YÃ¼rÃ¼me ve Bisiklet Yolu
+Ayrılmış Yürüme ve Bisiklet Yolu
 Segregated Foot- and Cycleway
-YeraltÄ± suyunun yeryÃ¼zÃ¼ne Ã§Ä±kÄ±ÅŸ noktasÄ±.
+Yeraltı suyunun yeryüzüne çıkış noktası.
 A point where groundwater naturally flows to the surface of the earth from underground.
 Otomobil
 Motorcar
@@ -580,7 +580,7 @@ Clockmaker
 Clockmaker
 Compressed Air
 Compressed Air
-Soldan aÃ§Ä±lÄ±r
+Soldan açılır
 Open on left side
 single plainly climbing up to second grade. Exposed, demanding terrain, jagged rocks, few dangerous glacier and snow
 single plainly climbing up to second grade. Exposed, demanding terrain, jagged rocks, few dangerous glacier and snow
@@ -600,11 +600,11 @@ Guest House/Bed & Breakfast
 Guest House/Bed & Breakfast
 Skating
 Skating
-GidiÅŸ
+Gidiş
 Roundtrip
 Solar Power Generator
 Solar Power Generator
-Ã‡ok kÄ±sa sÃ¼rede yaprak dÃ¶ken ve eski yapraklarÄ± dÃ¶kerken tekrar yeÅŸeren bitkiler.
+Çok kısa sürede yaprak döken ve eski yaprakları dökerken tekrar yeşeren bitkiler.
 Plants that lose their foliage for a very short period, when old leaves fall off and new foliage growth is starting.
 Postal Code
 Postal Code
@@ -612,13 +612,13 @@ Colour of text
 Colour of text
 Volleyball
 Volleyball
-ÃœÃ§Ã¼ncÃ¼l
+Üçüncül
 Tertiary
-GeÃ§it
+Geçit
 Crossing
 position of sign
 position of sign
-EriÅŸim KÄ±sÄ±tlamalarÄ±
+Erişim Kısıtlamaları
 Access Restrictions
 Avant (fi)
 Avant (fi)
@@ -628,7 +628,7 @@ Sailmaker
 Sailmaker
 Library
 Library
-YÃ¼kseklik (metre)
+Yükseklik (metre)
 Height (meters)
 Stadium
 Stadium
@@ -644,7 +644,7 @@ Synagogue
 Synagogue
 Dekovil
 Narrow Gauge Rail
-YÄ±l boyunca belirli bir sÃ¼re iÃ§in yapraksÄ±z olan bitkiler.
+Yıl boyunca belirli bir süre için yapraksız olan bitkiler.
 Plants that are leafless for a certain period during the year.
 Function
 Function
@@ -656,27 +656,27 @@ Entrance
 Entrance
 Electronic purses and Charge cards
 Electronic purses and Charge cards
-Bisikletle geÃ§iÅŸ
+Bisikletle geçiş
 Cross by bicycle
 Camping Site
 Camping Site
-Yaya geÃ§iÅŸi tÃ¼rÃ¼
+Yaya geçişi türü
 Pedestrian crossing type
 Number of conductors/wires per cable
 Number of conductors/wires per cable
 j-bar
 j-bar
-GeÃ§iÅŸ tÃ¼rÃ¼ ismi (UK)
+Geçiş türü ismi (UK)
 Crossing type name (UK)
-IsÄ±tma var mÄ±?
+Isıtma var mı?
 Has heating?
 Tennis
 Tennis
 Detour Route
 Detour Route
-E85 (%85 Etanol karÄ±ÅŸÄ±m)
+E85 (%85 Etanol karışım)
 E85 (85% Ethanol mix)
-Ä°z tipi
+İz tipi
 Tracktype
 last way before junction
 last way before junction
@@ -700,17 +700,17 @@ Dizel
 Diesel
 Where vegetation is dominated by grasses (Poaceae) and other herbaceous (non-woody) plants. Excludes cultivated areas and wetlands.
 Where vegetation is dominated by grasses (Poaceae) and other herbaceous (non-woody) plants. Excludes cultivated areas and wetlands.
-Yaprak dÃ¶ken ve dÃ¶kmeyen bitkilerin doÄŸal ortamÄ±
+Yaprak döken ve dökmeyen bitkilerin doğal ortamı
 Habitat with evergreen and deciduous vegetation.
 (Use international code, like +12-345-67890)
 (Use international code, like +12-345-67890)
 Highway milestone
 Highway milestone
-SaÄŸ trabzan
+Sağ trabzan
 Right handrail
 Green Waste
 Green Waste
-YerleÅŸim
+Yerleşim
 Residential
 Travel agent
 Travel agent
@@ -750,7 +750,7 @@ Proton (be)
 Proton (be)
 Posta kodu
 Post code
-CNG (SÄ±kÄ±ÅŸtÄ±rÄ±lmÄ±ÅŸ DoÄŸal Gaz)
+CNG (Sıkıştırılmış Doğal Gaz)
 CNG (Compressed Natural Gas)
 Taxi
 Taxi
@@ -762,7 +762,7 @@ Tamir
 Repair
 Administration centre
 Administration centre
-BazÄ± Ã¼lkelerde kullanÄ±lan yerel yÃ¶netimlerin adlandÄ±rdÄ±ÄŸÄ± ismi olan yol kavÅŸaklarÄ±
+Bazı ülkelerde kullanılan yerel yönetimlerin adlandırdığı ismi olan yol kavşakları
 Used in some countries for a named road junction who.s name serves for local orientation.
 Wayside Shrine
 Wayside Shrine
@@ -784,13 +784,13 @@ Inclination in degrees
 Inclination in degrees
 Tahliye
 Drain
-AÃ§Ä±lÄ±ÅŸ Saatleri
+Açılış Saatleri
 Opening Hours
 Kaynak
 Spring
 95 Oktan
 Octane 95
-KaplÄ±
+Kaplı
 Covered
 98 Oktan
 Octane 98
@@ -798,7 +798,7 @@ Table Tennis/Ping-Pong
 Table Tennis/Ping-Pong
 Riding
 Riding
-Sandalye/gondol baÅŸÄ±na kiÅŸi sayÄ±sÄ±
+Sandalye/gondol başına kişi sayısı
 Number of people per gondola/chair
 Water Turbine
 Water Turbine
@@ -816,7 +816,7 @@ Running
 Running
 Depth in meters
 Depth in meters
-Havai taÅŸÄ±ma
+Havai taşıma
 Aerialway
 Tower
 Tower
@@ -826,7 +826,7 @@ Fair Trade
 Fair Trade
 Ridge
 Ridge
-Hafif RaylÄ±
+Hafif Raylı
 Light Rail
 1/50 mix (mofa/moped)
 1/50 mix (mofa/moped)
@@ -838,7 +838,7 @@ Kissing Gate
 Kissing Gate
 Bank
 Bank
-Åželale
+Şelale
 Waterfall
 Diesel (Gas To Liquid - ultimate diesel)
 Diesel (Gas To Liquid - ultimate diesel)
@@ -862,13 +862,13 @@ Administrative
 Administrative
 House name
 House name
-GeÃ§iÅŸ Yerleri
+Geçiş Yerleri
 Passing Places
 Association
 Association
 Vending products
 Vending products
-DalgakÄ±ran
+Dalgakıran
 Breakwater
 Bisiklet yolu sol
 Cycleway left
@@ -878,7 +878,7 @@ Kano
 Canoe
 Gift/Souvenir
 Gift/Souvenir
-Karayolunun Niteliklerini DÃ¼zenle:
+Karayolunun Niteliklerini Düzenle:
 Edit Highway Attributes:
 Camping
 Camping
@@ -890,7 +890,7 @@ Ticket
 Ticket
 Railway Platform
 Railway Platform
-Genel EriÅŸim
+Genel Erişim
 General Access
 Takson
 Taxon
@@ -898,7 +898,7 @@ Din
 Religion
 Number of places
 Number of places
-Tekerlekler: ÅŸehir bisikleti, tekerlekli sandalye, skuter
+Tekerlekler: şehir bisikleti, tekerlekli sandalye, skuter
 Wheels: city bike, wheelchair, scooter
 Waste Power Generator
 Waste Power Generator
@@ -924,7 +924,7 @@ Waste Disposal/Dumpster
 Waste Disposal/Dumpster
 Assisted Living
 Assisted Living
-DiÄŸer
+Diğer
 Other
 Caravan Site/RV Park
 Caravan Site/RV Park
@@ -944,7 +944,7 @@ Bus Stop
 Bus Stop
 Windsock
 Windsock
-Toplu TaÅŸÄ±ma
+Toplu Taşıma
 Public Transport
 Motorsport
 Motorsport
@@ -956,29 +956,29 @@ Plaj
 Beach
 Video Games
 Video Games
-KapalÄ± (Ã§atÄ± ile)
+Kapalı (çatı ile)
 Covered (with roof)
 Type of shelter
 Type of shelter
 Outdoor
 Outdoor
-Suyun yanÄ±ndaki dÃ¼z kum, Ã§akÄ±l veya dÃ¼zlÃ¼k alan.
+Suyun yanındaki düz kum, çakıl veya düzlük alan.
 A flat area of sand, gravel or pebble next to water.
-TÃ¼rler
+Türler
 Species
-duruÅŸ pozisyonu (sadece giriÅŸ)
+duruş pozisyonu (sadece giriş)
 stop position (entry only)
 Tidal Water Turbine
 Tidal Water Turbine
 Automated
 Automated
-KumtaÅŸÄ± Kutusu
+Kumtaşı Kutusu
 Grit Bin
 Minimum age
 Minimum age
 ways passing through the tunnel
 ways passing through the tunnel
-TÃ¼m araÃ§lar
+Tüm araçlar
 All vehicles
 Quarry
 Quarry
@@ -996,9 +996,9 @@ Region
 Region
 Distance (kilometers)
 Distance (kilometers)
-Puset rampasÄ±
+Puset rampası
 Stroller ramp
-Bisiklet iÃ§in tek yÃ¶nlÃ¼
+Bisiklet için tek yönlü
 Oneway for bicycle
 District
 District
@@ -1006,13 +1006,13 @@ Fell
 Fell
 Beauty
 Beauty
-OperatÃ¶r
+Operatör
 Operator
-Toplu TaÅŸÄ±ma GÃ¼zergahÄ±
+Toplu Taşıma Güzergahı
 Public Transport Route
 Bunker Silo
 Bunker Silo
-Deniz YakÄ±tÄ±
+Deniz Yakıtı
 Marine Fuel
 Basketball
 Basketball
@@ -1026,7 +1026,7 @@ Quango
 Quango
 Places
 Places
-Ä°steÄŸe baÄŸlÄ± geÃ§iÅŸ Ã¶znitelikleri:
+İsteğe bağlı geçiş öznitelikleri:
 Optional crossing attributes:
 Cryptocurrencies
 Cryptocurrencies
@@ -1038,7 +1038,7 @@ Lock Gate
 Lock Gate
 Power Cable
 Power Cable
-GeniÅŸlik (metre)
+Genişlik (metre)
 Width (meters)
 Bus Station
 Bus Station
@@ -1048,7 +1048,7 @@ Pub
 Pub
 A mountain or hill ridge.
 A mountain or hill ridge.
-Tek yÃ¶n (bisiklet)
+Tek yön (bisiklet)
 Oneway (bicycle)
 Rounders
 Rounders
@@ -1068,17 +1068,17 @@ RC Car
 RC Car
 Zirai
 Agricultural
-platform (sadece giriÅŸ)
+platform (sadece giriş)
 platform (entry only)
 ICAO
 ICAO
 Sub area
 Sub area
-Ä°stinat DuvarÄ±
+İstinat Duvarı
 Retaining Wall
-Maks. geniÅŸlik (metre)
+Maks. genişlik (metre)
 Max. width (meters)
-Kombine YÃ¼rÃ¼me ve Bisiklet Yolu
+Kombine Yürüme ve Bisiklet Yolu
 Combined Foot- and Cycleway
 Continent
 Continent
@@ -1112,13 +1112,13 @@ Print shop
 Print shop
 Backrest
 Backrest
-Ä°nce Silindirler: Paten, kaykay
+İnce Silindirler: Paten, kaykay
 Thin Rollers: rollerblade, skateboard
 Count
 Count
 Furniture
 Furniture
-Åžube operatÃ¶rÃ¼
+Şube operatörü
 Branch operator
 Isolated Dwelling
 Isolated Dwelling
@@ -1130,11 +1130,11 @@ Fire Station
 Fire Station
 Drive-in theater
 Drive-in theater
-Åžebeke
+Şebeke
 Network
-AraÃ§ baÅŸÄ±na kiÅŸi sayÄ±sÄ±
+Araç başına kişi sayısı
 Number of people per car
-Neredeyse hiÃ§ yeÅŸermeyen bitkiler.
+Neredeyse hiç yeşermeyen bitkiler.
 Plants that are never entirely without green foliage.
 Computer
 Computer
@@ -1150,21 +1150,21 @@ Cable Distribution Cabinet
 Cable Distribution Cabinet
 shortcut segment
 shortcut segment
-FÃ¼nikÃ¼ler
+Füniküler
 Funicular
 Maks. uzunluk (metre)
 Max. length (meters)
 Bus Platform
 Bus Platform
-EÅŸyalar
+Eşyalar
 Goods
 Relations
 Relations
-Kar aracÄ±
+Kar aracı
 Snowmobile
 Chimney
 Chimney
-DÃ¶ngÃ¼
+Döngü
 Cycle
 Social Centre
 Social Centre
@@ -1176,7 +1176,7 @@ Emergency Access Point
 Emergency Access Point
 Country
 Country
-OtobÃ¼s KÄ±zaÄŸÄ±
+Otobüs Kızağı
 Bus Guideway
 Seismic Activity
 Seismic Activity
@@ -1186,7 +1186,7 @@ Site
 Site
 Hamlet
 Hamlet
-Ã–lÃ§Ã¼ (mm)
+Ölçü (mm)
 Gauge (mm)
 Wave Energy Converter
 Wave Energy Converter
@@ -1196,13 +1196,13 @@ Regina
 Regina
 Glass
 Glass
-Kara ile deniz arasÄ±ndaki Ã§izgi (yolun saÄŸ tarafÄ±ndaki suyla).
+Kara ile deniz arasındaki çizgi (yolun sağ tarafındaki suyla).
 Line between the sea and land (with the water on the right side of the way).
 traffic light or barrier that stops you
 traffic light or barrier that stops you
 Plastic
 Plastic
-KullanÄ±lmayan Demiryolu
+Kullanılmayan Demiryolu
 Disused Rail
 Research
 Research
@@ -1214,7 +1214,7 @@ Motorcycle brand
 Motorcycle brand
 Karayolu
 Highways
-Bisiklet rampasÄ±
+Bisiklet rampası
 Bicycle ramp
 Interior Decoration
 Interior Decoration
@@ -1226,17 +1226,17 @@ Number of screens
 Number of screens
 Swing Gate
 Swing Gate
-Ãœcret
+Ücret
 Fee
-Hemzemin GeÃ§it
+Hemzemin Geçit
 Level Crossing
-Su KÃ¼tlesi
+Su Kütlesi
 Water Body
 Motel
 Motel
-Havai taÅŸÄ±ma
+Havai taşıma
 aerialway
-elektrik akÄ±mÄ±
+elektrik akımı
 electricity
 A board with information.
 A board with information.
@@ -1244,19 +1244,19 @@ Wayside Cross
 Wayside Cross
 Pipeline
 Pipeline
-Bina GeÃ§idi
+Bina Geçidi
 Building Passage
 Baraj
 Dam
-TÃ¼r
+Tür
 Type
-KapalÄ± Rezervuar
+Kapalı Rezervuar
 Covered Reservoir
 Viewpoint
 Viewpoint
 Recreation Ground
 Recreation Ground
-Ä°niÅŸ (m)
+İniş (m)
 Descent (m)
 Pole Attributes:
 Pole Attributes:
@@ -1268,11 +1268,11 @@ Picnic Table
 Picnic Table
 Tax advisor
 Tax advisor
-Motorlu taÅŸÄ±t yolu
+Motorlu taşıt yolu
 Motorroad
 Site name
 Site name
-Motorlu araÃ§
+Motorlu araç
 Motor vehicle
 Bare lower lying uncultivated land with bushes but little or no tree cover.
 Bare lower lying uncultivated land with bushes but little or no tree cover.
@@ -1284,21 +1284,21 @@ Residential Building
 Residential Building
 Road Route
 Road Route
-FÃ¼nikÃ¼ler
+Füniküler
 funicular
 Spor
 Sport
-sÄ±cak hava
+sıcak hava
 hot air
 Railway Land
 Railway Land
 Seats count
 Seats count
-YakÄ±t kartlarÄ±:
+Yakıt kartları:
 Fuel cards:
 Driving School
 Driving School
-Enerji Ã§Ä±kÄ±ÅŸ biÃ§imleri:
+Enerji çıkış biçimleri:
 Output forms of energy:
 Hospital
 Hospital
@@ -1306,17 +1306,17 @@ Cemetery
 Cemetery
 Food Court
 Food Court
-sÄ±cak su
+sıcak su
 hot water
 Culture
 Culture
-Trafik AynasÄ±
+Trafik Aynası
 Traffic Mirror
 Rock
 Rock
 Visible Headframe
 Visible Headframe
-GiriÅŸ (Bariyer AÃ§Ä±ÄŸÄ±)
+Giriş (Bariyer Açığı)
 Entrance (Barrier Opening)
 Place of Worship
 Place of Worship
@@ -1338,25 +1338,25 @@ translator-credits
 translator-credits
 Sokaklar
 Streets
-GeÃ§iÅŸ Yeri
+Geçiş Yeri
 Passing Place
 link segment
 link segment
 Email Address
 Email Address
-Yaya GeÃ§idi
+Yaya Geçidi
 Pedestrian Crossing
 GLONASS Signals
 GLONASS Signals
 Childcare
 Childcare
-YakÄ±t tipi:
+Yakıt tipi:
 Fuel types:
-Ä°kinci el
+İkinci el
 Second hand
 Digital
 Digital
-soÄŸuk hava
+soğuk hava
 cold air
 Boundaries
 Boundaries
@@ -1374,7 +1374,7 @@ Power Route
 Power Route
 Power Plant
 Power Plant
-Tek yÃ¶n
+Tek yön
 Oneway
 Gaelic Games
 Gaelic Games
@@ -1384,15 +1384,15 @@ Fast Food
 Fast Food
 Bag
 Bag
-Ebeveynler iÃ§in alan
+Ebeveynler için alan
 Spaces for Parents
 Terminal
 Terminal
 Newspaper Stand
 Newspaper Stand
-Ã‡arpma KapÄ±
+Çarpma Kapı
 Bump Gate
-Referans numarasÄ±
+Referans numarası
 Reference Number
 Commercial
 Commercial
@@ -1400,17 +1400,17 @@ Weather
 Weather
 Bar
 Bar
-SaÄŸdan aÃ§Ä±lÄ±r
+Sağdan açılır
 Open on right side
 Bariyerler
 Barriers
 Turner
 Turner
-KorunmuÅŸ
+Korunmuş
 Preserved
 Sanitary Dump Station
 Sanitary Dump Station
-Toplu taÅŸÄ±ma gÃ¼zergahÄ± (Eski)
+Toplu taşıma güzergahı (Eski)
 Public transport route (Legacy)
 Koy
 Bay
@@ -1418,9 +1418,9 @@ Canoeing/Kayaking
 Canoeing/Kayaking
 Current Status
 Current Status
-Kalkar GeÃ§it
+Kalkar Geçit
 Lift Gate
-GÃ¼venlik denetimi
+Güvenlik denetimi
 Safety inspection
 Pole
 Pole
@@ -1440,7 +1440,7 @@ forward halt point
 forward halt point
 Laboratory
 Laboratory
-Maks. hÄ±z (km/s)
+Maks. hız (km/s)
 Max. speed (km/h)
 run-of-the-river
 run-of-the-river
@@ -1450,9 +1450,9 @@ For group
 For group
 Street name
 Street name
-Ã‡it
+Çit
 Fence
-Nehir kÄ±yÄ±sÄ±
+Nehir kıyısı
 Riverbank
 Village Green
 Village Green
@@ -1462,7 +1462,7 @@ Hangar
 Hangar
 Method
 Method
-Trafik Ä°ÅŸareti
+Trafik İşareti
 Traffic Signal
 Motosiklet Bayisi
 Motorcycle Dealer
@@ -1470,7 +1470,7 @@ Erotic
 Erotic
 Note
 Note
-Saatlik kiÅŸi sayÄ±sÄ±
+Saatlik kişi sayısı
 Number of people per hour
 Excrement Bags
 Excrement Bags
@@ -1484,13 +1484,13 @@ Battlefield
 Battlefield
 Building part
 Building part
-SatÄ±ÅŸ
+Satış
 Sale
 Kargo
 Cargo
 Beach Volleyball
 Beach Volleyball
-GeÃ§iÅŸ gÃ¶revlisi
+Geçiş görevlisi
 Crossing attendant
 Fixme
 Fixme
@@ -1504,9 +1504,9 @@ Information using headphones or a mobile phone.
 Information using headphones or a mobile phone.
 Web sitesi
 Website
-AtlÄ± geÃ§iÅŸ
+Atlı geçiş
 Cross on horseback
-Ã‡Ä±kÄ±ÅŸ
+Çıkış
 Exit to
 Menfez
 Culvert
@@ -1522,25 +1522,25 @@ Moneo (fr)
 Moneo (fr)
 Publisher
 Publisher
-KemeraltÄ±
+Kemeraltı
 Colonnade
 Plasterer
 Plasterer
 Storage Tank
 Storage Tank
-Hafif Ticari AraÃ§lar (eÅŸya)
+Hafif Ticari Araçlar (eşya)
 Light Commercial Vehicles (goods)
-Ã‡arÅŸÄ±
+Çarşı
 Arcade
 Tuzlu Su
 Salt Water
 Carpet layer
 Carpet layer
-Ã‡iftlik
+Çiftlik
 Farm
 Orphanage
 Orphanage
-SÄ±ÄŸÄ±r Engeli
+Sığır Engeli
 Cattle Grid
 Consulting
 Consulting
@@ -1562,7 +1562,7 @@ location of enforcement device
 location of enforcement device
 Radiation
 Radiation
-GeÃ§iÅŸ tipi
+Geçiş tipi
 Crossing type
 Tattoo
 Tattoo
@@ -1584,23 +1584,23 @@ Quick (au)
 Quick (au)
 node on way where enforcement starts
 node on way where enforcement starts
-Bisiklet satÄ±ÅŸ
+Bisiklet satış
 Bicycles are sold
 Automated Defibrillator
 Automated Defibrillator
-Engelliler iÃ§in alan
+Engelliler için alan
 Spaces for Disabled
 Tersane
 Boatyard
 Rugby League
 Rugby League
-Zaman sÄ±nÄ±rÄ± (dakika)
+Zaman sınırı (dakika)
 Time Limit (minutes)
-Kamu Hizmet AraÃ§larÄ± (KHA)
+Kamu Hizmet Araçları (KHA)
 Public Service Vehicles (psv)
 Multipolygon
 Multipolygon
-Maks. dingil aÄŸÄ±rlÄ±ÄŸÄ± (ton)
+Maks. dingil ağırlığı (ton)
 Max. axleload (tonnes)
 Insulation
 Insulation
@@ -1610,7 +1610,7 @@ Hampshire Gate
 Hampshire Gate
 Golf
 Golf
-RÄ±htÄ±m
+Rıhtım
 Pier
 Wilderness Hut
 Wilderness Hut
@@ -1632,7 +1632,7 @@ Social Club
 Social Club
 Alan
 Area
-Ä°nternet eriÅŸimi
+İnternet erişimi
 Internet access
 University
 University
@@ -1642,7 +1642,7 @@ Sculptor
 Sculptor
 Airport
 Airport
-YÃ¼ksek dolu araÃ§lar (hov)
+Yüksek dolu araçlar (hov)
 High-occupancy vehicles (hov)
 Boundary type
 Boundary type
@@ -1652,15 +1652,15 @@ Su Seddi
 Weir
 Mobile Phone
 Mobile Phone
-Servis yolu tÃ¼rÃ¼
+Servis yolu türü
 Service way type
-Trafik Ä±ÅŸÄ±klarÄ±
+Trafik ışıkları
 Traffic lights
 from way
 from way
 Industrial
 Industrial
-GiÅŸe
+Gişe
 Toll Booth
 Bariyer
 Barrier
@@ -1674,7 +1674,7 @@ School
 School
 Golf Course
 Golf Course
-Ä°skele babasÄ± tipi
+İskele babası tipi
 Bollard type
 Numara
 Number
@@ -1698,13 +1698,13 @@ Gemiler
 Shipping
 Water Tower
 Water Tower
-Ä°Ã§me suyu
+İçme suyu
 Drinking Water
 ways passing under the bridge
 ways passing under the bridge
 Small Appliances
 Small Appliances
-Park AlanÄ± GiriÅŸi
+Park Alanı Girişi
 Parking Entrance
 where to place the label
 where to place the label
@@ -1716,7 +1716,7 @@ Scree
 Scree
 Visa Debit
 Visa Debit
-Ã‡Ã¶p kutusu
+Çöp kutusu
 Bin
 photovoltaic
 photovoltaic
@@ -1724,7 +1724,7 @@ Diameter (in mm)
 Diameter (in mm)
 Physician
 Physician
-Tekerlekli araÃ§ hariÃ§
+Tekerlekli araç hariç
 No wheeled vehicle
 Malzeme
 Material
@@ -1764,17 +1764,17 @@ Acil Telefonu
 Emergency Phone
 Biogas Power Generator
 Biogas Power Generator
-Ä°kincil adÄ±
+İkincil adı
 Second Name
 SAC Scale
 SAC Scale
 Nuclear Reactor
 Nuclear Reactor
-EriÅŸim
+Erişim
 Access
 Tuvaletler
 Toilets
-DÃ¶nÃ¼ÅŸ Ã‡apÄ±
+Dönüş Çapı
 Turning Circle
 Image
 Image
@@ -1782,29 +1782,29 @@ Money Exchange
 Money Exchange
 100 Oktan
 Octane 100
-Yaya Ã¶ncelikli yol
+Yaya öncelikli yol
 Living Street
-PaylaÅŸÄ±m
+Paylaşım
 Sharing
 Fire Hydrant
 Fire Hydrant
 Amperaj
 Amperage
-DolmuÅŸ
+Dolmuş
 Share taxi
 Windmill
 Windmill
 Lawyer
 Lawyer
-duruÅŸ pozisyonu (sadece Ã§Ä±kÄ±ÅŸ)
+duruş pozisyonu (sadece çıkış)
 stop position (exit only)
 An accumulation of loose rocks.
 An accumulation of loose rocks.
-platform (sadece Ã§Ä±kÄ±ÅŸ)
+platform (sadece çıkış)
 platform (exit only)
 Hortuvar
 Buffer Stop
-YokuÅŸ (m)
+Yokuş (m)
 Ascent (m)
 Island
 Island
@@ -1824,7 +1824,7 @@ Distillery
 Distillery
 Greenhouse Horticulture
 Greenhouse Horticulture
-E10 (%10 Etanol karÄ±ÅŸÄ±m)
+E10 (%10 Etanol karışım)
 E10 (10% Ethanol mix)
 Lastikler
 Tires
@@ -1844,7 +1844,7 @@ Arts Centre
 Arts Centre
 Stil
 Stile
-Ã‡Ä±ÄŸ Koruyucu
+Çığ Koruyucu
 Avalanche Protector
 Official name
 Official name
@@ -1860,7 +1860,7 @@ Batteries
 Batteries
 Railway milestone
 Railway milestone
-Renk (HTML kodu veya on altÄ±lÄ±k kod)
+Renk (HTML kodu veya on altılık kod)
 Color (HTML name or hexadecimal code)
 anything related to the street
 anything related to the street
@@ -1878,7 +1878,7 @@ Structure
 Structure
 Boundary Stone
 Boundary Stone
-KÄ±zak
+Kızak
 Slipway
 Government
 Government
@@ -1894,7 +1894,7 @@ Annotation
 Annotation
 Metal construction
 Metal construction
-Referans numarasÄ±
+Referans numarası
 Reference number
 Beekeeper
 Beekeeper
@@ -1908,13 +1908,13 @@ Landfill
 Landfill
 Insurance
 Insurance
-Ã‡amurla kaplÄ± geniÅŸ alan.
+Çamurla kaplı geniş alan.
 Large area covered with mud.
 Accommodation
 Accommodation
 Hiking Route
 Hiking Route
-GeÃ§iÅŸ Ã¼creti
+Geçiş ücreti
 Toll
 Deli (Fine Food)
 Deli (Fine Food)
@@ -1932,29 +1932,29 @@ Food+Drinks
 Food+Drinks
 Grass
 Grass
-Bisiklet yolu saÄŸ
+Bisiklet yolu sağ
 Cycleway right
 Monitoring Station
 Monitoring Station
 Reservation
 Reservation
-Ã‡Ä±kÄ±ÅŸ yok (Ã§Ä±kmaz sokak)
+Çıkış yok (çıkmaz sokak)
 No exit (cul-de-sac)
 Birincil
 Primary
-Bisiklet yÄ±kanÄ±r (Ã¼cretli)
+Bisiklet yıkanır (ücretli)
 Bicycles are washed (for a fee)
 Boutique
 Boutique
-Ä°kincil baÄŸlantÄ±sÄ±
+İkincil bağlantısı
 Secondary Link
 A single tree.
 A single tree.
 A notable rock or group of rocks, with at least one of them firmly attached to the underlying bedrock.
 A notable rock or group of rocks, with at least one of them firmly attached to the underlying bedrock.
-Yol iÅŸaretleri
+Yol işaretleri
 Waypoints
-Turist otobÃ¼sleri
+Turist otobüsleri
 Tourist buses
 Water Park
 Water Park
@@ -1962,9 +1962,9 @@ Courthouse
 Courthouse
 Cafe
 Cafe
-Patika sÃ¼rekli iniÅŸli Ã§Ä±kÄ±ÅŸlÄ±. Arazi kÄ±smen dik, dÃ¼ÅŸme tehlikesi var.
+Patika sürekli inişli çıkışlı. Arazi kısmen dik, düşme tehlikesi var.
 Trail with continuous line and balanced ascent. Terrain partially steep, fall hazard possible
-Yol (Bilinmeyen TÃ¼r)
+Yol (Bilinmeyen Tür)
 Road (Unknown Type)
 Organic
 Organic
@@ -1982,7 +1982,7 @@ City
 City
 Greengrocer
 Greengrocer
-Sandalye baÅŸÄ± kiÅŸi sayÄ±sÄ±
+Sandalye başı kişi sayısı
 Number of people per chair
 street (up to 20m)
 street (up to 20m)
@@ -2000,11 +2000,11 @@ Bare lower lying uncultivated land with a shrubland habitat found mainly on free
 Bare lower lying uncultivated land with a shrubland habitat found mainly on free-draining infertile, acidic soils, and is characterised by open, low-growing woody vegetation.
 Audio Guide
 Audio Guide
-DiÄŸer kapasiteler iÃ§in Vikiye bakÄ±nÄ±z 
+Diğer kapasiteler için Vikiye bakınız 
 See the Wiki for other capacity:[types]=*.
 Notary
 Notary
-GÃ¶rÃ¼nÃ¼rlÃ¼k
+Görünürlük
 Visibility
 Yol Ver
 Give Way
@@ -2016,7 +2016,7 @@ Destination
 Destination
 1/25 mix (mofa/moped)
 1/25 mix (mofa/moped)
-Tramvay duraÄŸÄ± (eski)
+Tramvay durağı (eski)
 Tram stop (legacy)
 Duvar
 Wall
@@ -2030,7 +2030,7 @@ Numbering scheme
 Numbering scheme
 County
 County
-AraÃ§ eriÅŸimi
+Araç erişimi
 Vehicle access
 Printed Material
 Printed Material
@@ -2040,7 +2040,7 @@ Cins
 Genus
 Garages
 Garages
-Ä°l SÄ±nÄ±rÄ±
+İl Sınırı
 City Limit
 Height
 Height
@@ -2050,21 +2050,21 @@ Mastercard
 Mastercard
 Araba bayisi
 Car Dealer
-Gondol baÅŸÄ±na kiÅŸi sayÄ±sÄ±
+Gondol başına kişi sayısı
 Number of people per gondola
-Fiziksel kÄ±sÄ±tlamalar
+Fiziksel kısıtlamalar
 Physical restrictions
 Cooperative
 Cooperative
-Ä°kinci el bisiklet satÄ±ÅŸ
+İkinci el bisiklet satış
 Second-hand bicycles are sold
 Telecommunication
 Telecommunication
-KabarcÄ±k var mÄ±?
+Kabarcık var mı?
 Has bubble?
 Key cutter
 Key cutter
-KÄ±yÄ± ÅŸeridi
+Kıyı şeridi
 Coastline
 Restriction
 Restriction
@@ -2072,17 +2072,17 @@ Scaffolder
 Scaffolder
 Telesiyej
 Chair Lift
-YakÄ±t
+Yakıt
 Fuel
 Paper
 Paper
 Forest
 Forest
-Dakika olarak tipik yolculuk sÃ¼resi
+Dakika olarak tipik yolculuk süresi
 Typical journey time in minutes
 Dogecoin
 Dogecoin
-Ä°z
+İz
 Track
 Picnic Site
 Picnic Site
@@ -2098,7 +2098,7 @@ Shoes
 Shoes
 Waste
 Waste
-Terk edilmiÅŸ Demiryolu
+Terk edilmiş Demiryolu
 Abandoned Rail
 Telephone cards
 Telephone cards
@@ -2110,11 +2110,11 @@ Recording:
 Recording:
 A persistent body of dense ice that is constantly moving under its own weight.
 A persistent body of dense ice that is constantly moving under its own weight.
-Ä°nÅŸaat
+İnşaat
 Construction
-UÃ§urum
+Uçurum
 Cliff
-Ã‡it
+Çit
 Hedge
 A line of trees.
 A line of trees.
@@ -2126,7 +2126,7 @@ A steep rock face exposure, with a significant vertical, or near vertical (leave
 A steep rock face exposure, with a significant vertical, or near vertical (leave the lower face to the right of the way).
 Age group (ie: 6-12)
 Age group (ie: 6-12)
-Servis tÃ¼rÃ¼
+Servis türü
 Service type
 Bridge Support
 Bridge Support
@@ -2136,7 +2136,7 @@ Bridges
 Bridges
 Saddler
 Saddler
-Su kÃ¼tlesi aralÄ±klÄ± mÄ± (mevsimsel olarak kayboluyor mu)?
+Su kütlesi aralıklı mı (mevsimsel olarak kayboluyor mu)?
 Is the water body intermittent (disappears seasonally)?
 Book Store
 Book Store
@@ -2150,13 +2150,13 @@ Beacon
 Beacon
 Winery
 Winery
-duruÅŸ pozisyonu
+duruş pozisyonu
 stop position
 Shows current date
 Shows current date
 Bancomat
 Bancomat
-YÃ¼ksek Tavan: hafif yÃ¼klÃ¼ off-road araÃ§larÄ±
+Yüksek Tavan: hafif yüklü off-road araçları
 High Clearance: light duty off-road vehicle
 Public Grill
 Public Grill
@@ -2164,21 +2164,21 @@ Alpine Hut
 Alpine Hut
 Accountant
 Accountant
-LPG (SÄ±vÄ±laÅŸtÄ±rÄ±lmÄ±ÅŸ Petrol GazÄ±)
+LPG (Sıvılaştırılmış Petrol Gazı)
 LPG (Liquefied petroleum gas)
 Saddle
 Saddle
-Kamu Bisiklet Tamir Ä°stasyonu
+Kamu Bisiklet Tamir İstasyonu
 Public Bicycle Repair Station
 Oil Power Generator
 Oil Power Generator
-Ã‡alÄ±ÅŸtÄ±rma dÃ¼ÄŸmesi
+Çalıştırma düğmesi
 Button operated
-YÄ±lÄ±n belli bir kesiminde yapraklarÄ±nÄ± kÄ±smen yitiren bitkiler.
+Yılın belli bir kesiminde yapraklarını kısmen yitiren bitkiler.
 Plants that lose most, but not all, of their foliage for a fraction of the year.
 Upholsterer
 Upholsterer
-ParÃ§alar
+Parçalar
 Parts
 Exceptions
 Exceptions
@@ -2190,29 +2190,29 @@ Type of transformer
 Type of transformer
 Military
 Military
-OtobÃ¼s
+Otobüs
 Bus
-OtobÃ¼s TuzaÄŸÄ±
+Otobüs Tuzağı
 Bus Trap
-HÄ±z RadarÄ±
+Hız Radarı
 Speed Camera
 Soccer
 Soccer
 Operation times
 Operation times
-AyrÄ±lmÄ±ÅŸ Bisiklet Yolu
+Ayrılmış Bisiklet Yolu
 Dedicated Cycleway
-PÃ¼rÃ¼zsÃ¼zlÃ¼k
+Pürüzsüzlük
 Smoothness
 Rooms
 Rooms
-Ä°skele babasÄ±
+İskele babası
 Bollard
 Educational institution
 Educational institution
 3D
 3D
-Hizmet ZamanlarÄ±
+Hizmet Zamanları
 Service Times
 Ref of the way this is a detour to
 Ref of the way this is a detour to
@@ -2248,7 +2248,7 @@ Tailor
 Tailor
 Horse Riding
 Horse Riding
-Ä°sim
+İsim
 Name
 Reference (track number)
 Reference (track number)
@@ -2256,7 +2256,7 @@ Merkez trabzan
 Center handrail
 Town
 Town
-YÄ±kama
+Yıkama
 Wash
 node of the intersection
 node of the intersection
@@ -2264,13 +2264,13 @@ Advertising agency
 Advertising agency
 Label point
 Label point
-Min. hÄ±z (km/s)
+Min. hız (km/s)
 Min. speed (km/h)
 Roofer
 Roofer
 Branch tower type
 Branch tower type
-SÄ±nÄ±r KontrolÃ¼
+Sınır Kontrolü
 Border Control
 Political party
 Political party
@@ -2280,21 +2280,21 @@ Power rating (kVA/MVA)
 Power rating (kVA/MVA)
 Yayalar
 Pedestrians
-Åžehir DuvarÄ±
+Şehir Duvarı
 City Wall
 Collection times
 Collection times
-rota bÃ¶lÃ¼mleri
+rota bölümleri
 route segment
 Post Box
 Post Box
-Maks. aÄŸÄ±rlÄ±k (ton)
+Maks. ağırlık (ton)
 Max. weight (tonnes)
 Common
 Common
 Osmotic Power Generator
 Osmotic Power Generator
-Ã‡ivili kapan
+Çivili kapan
 Spikes
 Amusement/Theme Park
 Amusement/Theme Park
@@ -2338,7 +2338,7 @@ Field Hockey
 Field Hockey
 Tactile Paving
 Tactile Paving
-AsansÃ¶r
+Asansör
 Elevator
 Rugby Union
 Rugby Union
@@ -2348,7 +2348,7 @@ Camogie
 Camogie
 Social Workshop
 Social Workshop
-KavÅŸak
+Kavşak
 Junction
 Ambulantory Care
 Ambulantory Care
@@ -2376,13 +2376,13 @@ Demir yolu platformu (eski)
 Railway platform (legacy)
 Geldkarte (de)
 Geldkarte (de)
-giriÅŸ noktasÄ±
+giriş noktası
 entry points
 Skipped height (meters)
 Skipped height (meters)
 Playground
 Playground
-SÄ±nÄ±flandÄ±rÄ±lmamÄ±ÅŸ
+Sınıflandırılmamış
 Unclassified
 Kale
 Castle
@@ -2390,7 +2390,7 @@ inner segment
 inner segment
 Konum
 Location
-DÃ¶nÃ¼ÅŸ alanÄ±
+Dönüş alanı
 Turning Loop
 Display:
 Display:
@@ -2410,7 +2410,7 @@ Do-It-Yourself Store
 Do-It-Yourself Store
 Bisiklet Bariyeri
 Cycle Barrier
-Rota tÃ¼rÃ¼
+Rota türü
 Route type
 Max. weight (tonnes, only if enforcement=maxweight)
 Max. weight (tonnes, only if enforcement=maxweight)
@@ -2426,19 +2426,19 @@ Kapasite
 Capacity
 Outreach
 Outreach
-KaldÄ±rÄ±m
+Kaldırım
 Sidewalk
 Sulak
 Wetland
 Piste type
 Piste type
-Sembol aÃ§Ä±klama
+Sembol açıklama
 Symbol description
-Belirli Ã¼lkeler iÃ§in isteÄŸe baÄŸlÄ± deÄŸerler
+Belirli ülkeler için isteğe bağlı değerler
 Optional values for specific countries
 Farmyard
 Farmyard
-DaÄŸ GeÃ§idi
+Dağ Geçidi
 Mountain Pass
 Dressmaker
 Dressmaker
@@ -2456,9 +2456,9 @@ Gardener
 Gardener
 Bisiklet Bayii
 Bike Dealer
-SÃ¼rÃ¼kleme AsansÃ¶rÃ¼
+Sürükleme Asansörü
 Drag Lift
-Otoyol kavÅŸaÄŸÄ±
+Otoyol kavşağı
 Motorway Junction
 Pressure (in bar)
 Pressure (in bar)
@@ -2476,13 +2476,13 @@ Pharmacy
 Pharmacy
 UIC-Reference
 UIC-Reference
-Maks. yÃ¼kseklik (metre)
+Maks. yükseklik (metre)
 Max. height (meters)
-AÃ§Ä±klama
+Açıklama
 Description
 Post Office
 Post Office
-KarÄ±ÅŸÄ±k AsansÃ¶r
+Karışık Asansör
 Mixed Lift
 Climbing
 Climbing
@@ -2498,7 +2498,7 @@ Title or type of protection
 Title or type of protection
 Prison
 Prison
-Ä°stasyon veya kolaylÄ±klar
+İstasyon veya kolaylıklar
 Station or amenities
 Optician
 Optician
@@ -2510,7 +2510,7 @@ Photographic laboratory
 Photographic laboratory
 Medical Supply
 Medical Supply
-GeÃ§itler
+Geçitler
 Passageways
 Referans
 Reference
@@ -2544,7 +2544,7 @@ Laundry
 Laundry
 Sclaverand (Presta)
 Sclaverand (Presta)
-Ä°nternet eriÅŸimi Ã¼cretli
+İnternet erişimi ücretli
 Internet access fee
 Geography
 Geography
@@ -2576,15 +2576,15 @@ Archery
 Archery
 At
 Horse
-Ã‡Ä±kÄ±ÅŸ kapÄ±sÄ±
+Çıkış kapısı
 Sally Port
 Tree
 Tree
-AkÄ±ntÄ±
+Akıntı
 Stream
 Works
 Works
-Ã‡amur
+Çamur
 Mud
 Sports
 Sports
@@ -2598,7 +2598,7 @@ Resource
 Resource
 Vacant
 Vacant
-Emniyet alanÄ± yokuÅŸ aÅŸaÄŸÄ± iniÅŸlerde kamyon ve diÄŸer araÃ§larÄ±n fren arÄ±zasÄ± gibi durumlarda gÃ¼venle durdurmak iÃ§in kullanÄ±lÄ±r
+Emniyet alanı yokuş aşağı inişlerde kamyon ve diğer araçların fren arızası gibi durumlarda güvenle durdurmak için kullanılır
 Emergency lane beside long descending slopes for trucks and other vehicles to stop safely after brake failure.
 first way after junction
 first way after junction
@@ -2610,7 +2610,7 @@ Province
 Province
 Artist Name
 Artist Name
-Sihirli HalÄ±
+Sihirli Halı
 Magic Carpet
 Bridge outline
 Bridge outline
@@ -2620,7 +2620,7 @@ Dunlop (Woods)
 Dunlop (Woods)
 Outdoor seating
 Outdoor seating
-EÄŸim
+Eğim
 Incline
 BankAxess
 BankAxess
@@ -2642,7 +2642,7 @@ Blok
 Block
 Biofuel Power Generator
 Biofuel Power Generator
-Åžeritler
+Şeritler
 Lanes
 Zoo
 Zoo
@@ -2662,7 +2662,7 @@ Kart Racing
 Kart Racing
 Man Made
 Man Made
-Motorlu araÃ§ (CH)
+Motorlu araç (CH)
 Motor vehicle (CH)
 Disused
 Disused
@@ -2690,19 +2690,19 @@ backward halt point
 backward halt point
 Triple tower
 Triple tower
-Åžarj Ä°stasyonu
+Şarj İstasyonu
 Charging Station
 Minicash (lu)
 Minicash (lu)
-AyrÄ±lmÄ±ÅŸ at binme yolu
+Ayrılmış at binme yolu
 Dedicated Bridleway
-Ä°kincil
+İkincil
 Secondary
 Joiner
 Joiner
-DiÄŸer mod kÄ±sÄ±tlamalarÄ±
+Diğer mod kısıtlamaları
 Other mode restrictions
-Feribot RotasÄ±
+Feribot Rotası
 Ferry Route
 Zone
 Zone
@@ -2710,13 +2710,13 @@ Level (ground floor is 0)
 Level (ground floor is 0)
 Garden Centre
 Garden Centre
-Genel eriÅŸim
+Genel erişim
 General access
 Servis
 Service
 Cleaning
 Cleaning
-GÃ¼Ã§lÃ¼ Tekerlekler: yÃ¼rÃ¼yÃ¼ÅŸ bisikleti, araba, Ã§ekÃ§ek
+Güçlü Tekerlekler: yürüyüş bisikleti, araba, çekçek
 Robust Wheels: trekking bike, car, rickshaw
 Travel Agency
 Travel Agency
@@ -2736,7 +2736,7 @@ Architect
 ... other transportation modes possible
 Tea
 Tea
-Karayolu tÃ¼rÃ¼
+Karayolu türü
 Highway type
 Casino
 Casino
@@ -2744,7 +2744,7 @@ Palaeontological Site
 Palaeontological Site
 An office where you can get information about a town or region.
 An office where you can get information about a town or region.
-KÄ±smen karayla kaplÄ± geniÅŸ bir aÄŸzÄ± olan bÃ¼yÃ¼k su kÃ¼tlesi.
+Kısmen karayla kaplı geniş bir ağzı olan büyük su kütlesi.
 A large body of water partially enclosed by land but with a wide mouth.
 variant segment
 variant segment
@@ -2776,7 +2776,7 @@ Skipped Levels
 Skipped Levels
 Levels
 Levels
-GeÃ§it
+Geçit
 Gate
 Note
 Note
@@ -2794,9 +2794,9 @@ Tower type
 Tower type
 State
 State
-YakÄ±t
+Yakıt
 Fuel
-BarÄ±nak
+Barınak
 Shelter
 Male
 Male
