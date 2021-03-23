@@ -55,6 +55,10 @@ compileTestJava {
     source javaccOutput,mainSource,testSource
 }
 
+test {
+    testLogging.showStandardStreams = true
+}
+
 javadoc {
     source mainSource, testSource
     exclude '**/*.jj'
