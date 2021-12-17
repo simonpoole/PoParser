@@ -4,6 +4,7 @@ import java.io.InputStream;
 import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.TreeSet;
 
 /**
@@ -18,7 +19,7 @@ public class Po implements Serializable {
 	 */
 	private static final long serialVersionUID = 1L;
 	
-	Map<String,HashMap<String,String>> m = null;
+	private Map<String,HashMap<String,String>> m = null;
 	
 	/**
 	 * Parse the input stream in to a map
@@ -39,9 +40,10 @@ public class Po implements Serializable {
 	public void addFallback(InputStream is) throws ParseException {
 		PoParser pp = new PoParser(is);
 		Map<String,HashMap<String,String>> fallback = pp.getMap();
-		for (String ctxt:m.keySet()) { // loop over contexts
-			HashMap<String,String> translations = m.get(ctxt);
-			HashMap<String,String> fallbackTranslations = fallback.get(ctxt);
+		for (Entry<String,HashMap<String,String>> entry:m.entrySet()) { // loop over contexts
+		    String ctxt = entry.getKey();
+			Map<String,String> translations = entry.getValue();
+			Map<String,String> fallbackTranslations = fallback.get(ctxt);
 			if (fallbackTranslations == null) { // skip
 				continue;
 			}
