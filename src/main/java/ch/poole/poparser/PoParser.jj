@@ -260,9 +260,9 @@ PoEntry entry() :
   }
 }
 
-HashMap<String,HashMap<String,String>> getMap() :
+Map<String,Map<String,String>> getMap() :
 {
-  HashMap<String,HashMap<String,String>>result = new HashMap<String,HashMap<String,String>>();
+  Map<String,Map<String,String>>result = new HashMap<String,Map<String,String >>();
   PoEntry entry = null;
 }
 {
