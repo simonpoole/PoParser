@@ -2,7 +2,6 @@ package ch.poole.poparser;
 
 import java.io.InputStream;
 import java.io.Serializable;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.TreeSet;
