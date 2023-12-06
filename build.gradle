@@ -9,7 +9,7 @@
 
 plugins {
     id "ca.coglinc.javacc" version "2.4.0"
-    id "org.sonarqube" version "3.0"
+    id "org.sonarqube" version "4.0.0.2929"
 }
 
 // Apply the java plugin to add support for Java
@@ -19,8 +19,8 @@ apply plugin: 'maven-publish'
 apply plugin: 'signing'
 apply plugin: "jacoco"
 
-
 version = '0.8.0'
+
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
@@ -59,6 +59,12 @@ test {
     testLogging.showStandardStreams = true
 }
 
+jacocoTestReport {
+    reports {
+        xml.required.set(true)
+    }
+}
+
 javadoc {
     source mainSource, testSource
     exclude '**/*.jj'
@@ -67,11 +73,11 @@ javadoc {
 
 task sourcesJar(type: Jar) {
 	from mainSource, testSource
-	classifier = 'sources'
+	archiveClassifier = 'sources'
 }
 
 task javadocJar(type: Jar, dependsOn: javadoc) {
-	classifier = 'javadoc'
+	archiveClassifier = 'javadoc'
 	from javadoc.destinationDir
 //	options.encoding = 'UTF-8'
 }
@@ -87,7 +93,7 @@ build.dependsOn replaceVersion
 
 jacocoTestReport {
     reports {
-        xml.enabled true
+        xml.required = true
     }
 }
 
@@ -112,8 +118,8 @@ publishing {
             from components.java
             groupId 'ch.poole'
             artifactId 'PoParser'
-			artifact sourcesJar 
-			artifact javadocJar 
+            artifact sourcesJar
+            artifact javadocJar
             pom {
                 name = artifactId
                 description = 'This is a simple parser for gettext .po files'    
@@ -160,5 +166,5 @@ repositories {
 
 // In this section you declare the dependencies for your production and test code
 dependencies {
-	testCompile 'junit:junit:4.12'
+	testImplementation 'junit:junit:4.12'
 }
